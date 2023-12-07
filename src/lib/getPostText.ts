@@ -1,4 +1,4 @@
 export default async function getPostText() {
   // Generate the text for your post here. You can return a string or a promise that resolves to a string
-  return "It feels like we're getting warmer...";
+  return "We should now be posting every 22 minutes!";
 }
