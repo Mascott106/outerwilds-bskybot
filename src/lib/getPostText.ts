@@ -15,7 +15,10 @@ export default async function getPostText() {
 
 //   }
 
+// var quoteArray = Object.keys()
 
+// THIS IS IT
+//https://stackoverflow.com/questions/14697371/how-to-retrieve-random-json-object-by-key-from-json-dictionary
 
-  return "Something is happening every 22 minutes!";
+  return "This will be where the quote goes in a variable.";
 }
