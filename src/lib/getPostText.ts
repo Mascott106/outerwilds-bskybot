@@ -12,18 +12,19 @@ export default async function getPostText() {
   var quoteText;
   var confirmedQuoteText;
 
-  // THIS WILL SELECT THE NUMBER OF THE QUOTE
+  // selects quote number in bounds and checks if it is less than 301 characters
   while (!gotText) {
     selectNum = getRandomInt(2901);
     quoteText = lang_en[selectNum][0]
 
-    if (quoteText.length < 300) {
-      confirmedQuoteText = quoteText
+    console.log("quoteText");
+
+    if (quoteText.length < 301) {
+      confirmedQuoteText = quoteText       //TODO add quotes around text??? will need to set bounds to 299 just in case
       gotText = true;
-    } else {
-        selectNum = getRandomInt(2901);
-        quoteText = lang_en[selectNum][0]
-    }
+      } else {
+        console.log("quote too long");
+      }
   }
 
   return confirmedQuoteText;
