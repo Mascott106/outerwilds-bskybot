@@ -3,7 +3,7 @@
 "How can the Eye be older than the universe itself?"
 ],
 "2": [
-"Suppose it is a relic from a previous universe."
+""
 ],
 "3": [
 "The early universe was unimaginably hot and dense. If anything existed before, it would have been destroyed."
@@ -267,10 +267,10 @@
 "BELLS: If you are preparing to make your first pilgrimage to the Quantum Moon, descend the steps to the entrance below. The knowledge held within will help you on your journey."
 ],
 "90": [
-"Activate the gravity cannon"
+" "
 ],
 "91": [
-"Call the shuttle home"
+" "
 ],
 "92": [
 "LAEVI: We’re meeting in the Fossil Fish Cave to play the game! If you’re too big to climb through the Anglerfish Overlook hole:"
@@ -354,43 +354,33 @@
 "RHUS: And while these rocks are interesting, they can wait until a less urgent time."
 ],
 "119": [
-"SOLANUM: The sands go to and fro,"
+"SOLANUM: The sands go to and fro,\nReversing their swift flow.\nIf you’re inside\nWhen turns the tide,\nThen skyward you should go."
 ],
 "120": [
-"SOLANUM: Reversing their swift flow."
 ],
 "121": [
-"SOLANUM: If you’re inside"
 ],
 "122": [
-"SOLANUM: When turns the tide,"
 ],
 "123": [
-"SOLANUM: Then skyward you should go."
 ],
 "124": [
 "SOLANUM: Who was it when we last quit:"
 ],
 "125": [
-"SOLANUM: Me"
+"SOLANUM: Me \nLAEVI: Me \nILEX: I was\nILEX: Me again\nLAMI: Me!\nSOLANUM: Me\nSOLANUM: Me\n"
 ],
 "126": [
-"LAEVI: Me"
 ],
 "127": [
-"ILEX: I was"
 ],
 "128": [
-"ILEX: Me again"
 ],
 "129": [
-"LAMI: Me!"
 ],
 "130": [
-"SOLANUM: Me"
 ],
 "131": [
-"SOLANUM: Me"
 ],
 "132": [
 "LAMI: Me"
@@ -486,31 +476,18 @@
 "PYE: This would be wise, I think, Clary. If you don’t mind waiting here with it, Poke and I can continue to investigate the surface."
 ],
 "163": [
-"Mining site 2b"
 ],
 "164": [
-"ALIGNMENT 1: the sun",
-"?"
 ],
 "165": [
-"ALIGNMENT 2: the Hourglass Twins",
-"?"
 ],
 "166": [
-"ALIGNMENT 3: Timber Hearth",
-"?"
 ],
 "167": [
-"ALIGNMENT 4: Brittle Hollow",
-"?"
 ],
 "168": [
-"ALIGNMENT 5: Giant's Deep",
-"?"
 ],
 "169": [
-"Self",
-"Name"
 ],
 "170": [
 "...Whoa."
@@ -990,10 +967,8 @@
 "CLARY: No, Yarrow understands the distinction. He likely doesn’t realize the Hourglass Twins are so close together they function as a single astral body, with a shared alignment point in between them."
 ],
 "329": [
-"Exit to surface."
 ],
 "330": [
-"Black Hole Forge (north 40m)"
 ],
 "331": [
 "PYE: The Ash Twin Project will be one of our biggest undertakings (metaphorically and physically). To build it, we need a way to travel quickly between Ash Twin and each location that holds crucial project materials."
@@ -1020,7 +995,7 @@
 "Retrieving previous launch data from Ash Twin."
 ],
 "339": [
-"Total number of probes launched: NbTimeloops"
+" "
 ],
 "340": [
 "Deep space anomaly matching all known criteria for the Eye of the universe found by probe FirstLoop."
@@ -3548,16 +3523,12 @@
 "SOLANUM: What if the Eye isn’t something good?"
 ],
 "1176": [
-"1: High Energy Lab Trailhead"
 ],
 "1177": [
-"2: Stepping Stone District"
 ],
 "1178": [
-"3: Anglerfish Overlook District"
 ],
 "1179": [
-"4: Eye Shrine District"
 ],
 "1180": [
 "ANNONA: We need status reports for all systems, but initial things first: Is everyone unharmed?"
@@ -5649,52 +5620,36 @@
 "THATCH: Imagine what rare and profound knowledge it might offer. We must find this Eye of the universe."
 ],
 "1860": [
-"Black Hole Forge District"
 ],
 "1861": [
-"The Crossroads (west 350m)"
 ],
 "1862": [
-"The Southern Observatory (south 550m)"
 ],
 "1863": [
-"Gravity Crystal Workshop (above 140m)"
 ],
 "1864": [
-"Gravity Cannon (east 400m)"
 ],
 "1865": [
-"The Hanging City (north 250m)"
 ],
 "1866": [
-"The Tower of Quantum Knowledge (west 190m)"
 ],
 "1867": [
-"Lower Crossroads (below 56m)"
 ],
 "1868": [
-"The Hanging City (below 50m)"
 ],
 "1869": [
-"Eye Shrine District"
 ],
 "1870": [
-"Meltwater District"
 ],
 "1871": [
-"Black Hole Forge (left 30m)"
 ],
 "1872": [
-"The Crossroads (east 190m)"
 ],
 "1873": [
-"School District"
 ],
 "1874": [
-"Gravity Cannon Controls (90m)"
 ],
 "1875": [
-"Entrance to the Tower of Quantum Knowledge (below 90m)"
 ],
 "1876": [
 "The shuttle is currently resting at the comet."
@@ -5727,34 +5682,34 @@
 "COLEUS: We plan to reexamine the northern Lakebed Cave. (Maybe our friendly rock will meet us down there!)"
 ],
 "1886": [
-"The Sunless City (120m)"
+" "
 ],
 "1887": [
-"Gravity Cannon (120m)"
+" "
 ],
 "1888": [
-"The High Energy Lab (400m)"
+" "
 ],
 "1889": [
-"Anglerfish Fossil Overlook (40m)"
+" "
 ],
 "1890": [
-"Stepping Stone Cave (20m)"
+" "
 ],
 "1891": [
-"The Sunless City (120m)"
+" "
 ],
 "1892": [
-"Crash Site Caves (60m)"
+" "
 ],
 "1893": [
-"The High Energy Lab (300m)"
+" "
 ],
 "1894": [
-"The Sunless City (300m)"
+" "
 ],
 "1895": [
-"TimeMinutes MINUTES, TimeSeconds SECONDS AGO: Long-range probe successfully launched from the Orbital Probe Cannon."
+" "
 ],
 "1896": [
 "We offer our congratulations! You’ve learned the rule of quantum imaging. Take this knowledge with you on the remainder of your quantum pilgrimage."
@@ -5790,16 +5745,16 @@
 "Cannon aligned with randomly selected probe trajectory. Gravity field activated."
 ],
 "1907": [
-"Control Module"
+" "
 ],
 "1908": [
-"Launch Module"
+" "
 ],
 "1909": [
-"Receiving data from probe NbTimeloops."
+" "
 ],
 "1910": [
-"Visualizing current trajectory of probe NbTimeloops."
+" "
 ],
 "1911": [
 "SOLANUM: There is fundamental uncertainty throughout the universe. Normally, this uncertainty is only observable on a very small scale. As one approaches the Eye, however, that uncertainty grows enormously."
@@ -7232,10 +7187,8 @@
 "Should I begin?"
 ],
 "2384": [
-"Yes."
 ],
 "2385": [
-"Not yet."
 ],
 "2386": [
 "You g-got it. I’ll do my best!"
@@ -7262,16 +7215,13 @@
 "I’m glad you remembered me."
 ],
 "2394": [
-"A conscious observer has entered the Eye. I wonder what happens now."
+"A conscious observer has entered the Eye. I wonder what happens now.\nIs it time to find out?"
 ],
 "2395": [
-"Is it time to find out?"
 ],
 "2396": [
-"Yes."
 ],
 "2397": [
-"Not yet."
 ],
 "2398": [
 "This song is new to me, but I am honored to be a part of it."
@@ -7289,10 +7239,8 @@
 "Are you ready to learn what comes next?"
 ],
 "2403": [
-"Yes."
 ],
 "2404": [
-"Not yet."
 ],
 "2405": [
 "I admire your curiosity, friend. Let’s find out together."
@@ -7304,59 +7252,42 @@
 "But unless they are collapsed by an observer, they will never be more than possibilities."
 ],
 "2408": [
-"I saw smoke coming from Youngbark Crater up north and figured I should go check it out. You can use the scout launcher, just please don’t break it while I’m gone. – Tektite",
-"Note"
+"I saw smoke coming from Youngbark Crater up north and figured I should go check it out. You can use the scout launcher, just please don’t break it while I’m gone. – Tektite"
 ],
 "2409": [
-"Big thanks to these additional founding members of Outer Wilds Ventures, without whom we would never have gotten off the ground:"
 ],
 "2410": [
-"Matthew Steinhauer"
 ],
 "2411": [
-"Ben Etherington"
 ],
 "2412": [
-"QwertyuiopThePie"
 ],
 "2413": [
-"Jordan Frith"
 ],
 "2414": [
-"Tom Cummings"
 ],
 "2415": [
-"Sean \"sharktemplar\" Farrell"
 ],
 "2416": [
-"Steven Ursell"
 ],
 "2417": [
-"Ryan / Ohmwrecker"
 ],
 "2418": [
-" . . . . . . . . . . . . . . . WWWWWWWWWWWWWWWWWWWWWWWWWWWW . . . . . . . . . . . . . . . . . . . . . . . . . .WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW . . . . . . . . . . . . . . . . . . . . . .WWWWWWWWWWWW . . . . . . . . . .WWWWWWWWWWWWWW . . . . . . . . . . . . . . . . . .WWWWWWWW . . . . . . . . . . . . . . . .WWWWWWWWWWWW . . . . . . . . . . . . . . . .WWWWWWWW . . . . . . . . . . . . . . . . . . .WWWWWWWWWW . . . . . . . . . . . . . .WWWWWWWW . . . . . . . . . . . . . . . . . . . . .WWWWWWWWWW . . . . . . . . . . . .WWWWWWWW . . . . . . . . . . . . . . . . . . . . . . .WWWWWWWWWW . . . . . . . . . .WWWWWWWW . . . . . . . . . . . . . . . . . . . . . . . . .WWWWWWWW . . . . . . . . .WWWWWWWW . . . . . . . . . . . . . . . . . . . . . . . . . . .WWWWWWWW . . . . . . . .WWWWWWWW . . . . . . . . . . . . . . . . . . . . . . . . . . .WWWWWWWW . . . . . . . .WWWWWW . . . . . . . . . . . . . . . . . . . . . . . . . . . . .WWWWWWWW . . . . . .WWWWWWWW . . . . . . . . . . . . . . . . . . . . . . . . . . . . .WWWWWWWW . . . . . .WWWWWW . . . . . .WWWW . . . . . . . . . . . . .WWWW . . . . . . . .WWWWWWW . . . .WWWWWWWW . . . . .WWWWWWWW . . . . . . . . . . .WWWWWWWW . . . . . . .WWWWWWWW . . . .WWWWWWWW . . . . .WWWWWWWW . . . . . . . . . . .WWWWWWWW . . . . . . . WWWWWWW . . . WWWWWWW . . . . . .WWWWWWWW . . . . . . . . . . .WWWWWWWW . . . . . . . .WWWWWW . . . WWWWWWW . . . . . .WWWWWWWW . . . . . . . . . . .WWWWWWWW . . . . . . . .WWWWWW . . .WWWWWWWW . . . . . .WWWWWWWW . . . . . . . . . . .WWWWWWWW . . . . . . . .WWWWWW . . .WWWWWWWW . . . . . . .WWWW . . . . . . . . . . . . .WWWW . . . . . . . . .WWWWWW . . .WWWWWWWW . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . WWWWWWW . . .WWWWWWWW . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . WWWWWWW . . .WWWWWWWW . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .WWWWWWWW . . .WWWWWWWW . . . . . . . . . . . . . . . . . . . .WWWWWW . . . . . . . . .WWWWWWW . . . .WWWWWW . . . . . . . .WWWWWW . . . . . . . WWWWWWWWW . . . . . . . . WWWWWWW . . . . .WWWWWWWW . . . . . . .WWWWWWWW . . . . . .WWWWWWWW . . . . . . . . .WWWWWWWW . . . . .WWWWWWWW . . . . . . . .WWWWWWWWWWWWWWWWWWWWWWWW . . . . . . . . . WWWWWWWW . . . . . .WWWWWW . . . . . . . . .WWWWWWWWWWWWWWWWWW . . . . . . . . . . .WWWWWWWW . . . . . . .WWWWWWWW . . . . . . . . . .WWWWWWWWWW . . . . . . . . . . . .WWWWWWWW . . . . . . . . .WWWWWWWW . . . . . . . . . . . . . . . . . . . . . . . . .WWWWWWWWWW . . . . . . . . . .WWWWWWWW . . . . . . . . . . . . . . . . . . . . . . .WWWWWWWWWW . . . . . . . . . . . WWWWWWWWW . . . . . . . . . . . . . . . . . . . . .WWWWWWWWWW . . . . . . . . . . . . . .WWWWWWWW . . . . . . . . . . . . . . . . . .WWWWWWWWWWWW . . . . . . . . . . . . . . . .WWWWWWWWWW . . . . . . . . . . . . . .WWWWWWWWWWWWWW . . . . . . . . . . . . . . . . . .WWWWWWWWWWWW . . . . . . . . . .WWWWWWWWWWWWWW . . . . . . . . . . . . . . . . . . . . .WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW . . . . . . . . . . . . . . . . . . . . . . . . . .WWWWWWWWWWWWWWWWWWWWWWWWWWWWWW . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .WWWWWWWWWWWWWWWW . . . . . . . . . . . . . . . . . . . "
 ],
 "2419": [
-"  WWWWWWWWWWWWWWW WWWWWW          WWWWWWW WWWW                   WWWWW WWWW                       WWWWW WWWW                           WWWW WWW                             WWWW WWW      WW            WWWW       WWWW WWWW     WWWW         WWWWWWWW     WWWW WWW      WWWW        WWW    WWW     WWW WWWW       WW                        WWW WWWW                                WWWW WWWW                    WWW         WWWW WWWW       WWWW      WWWW         WWWW WWW         WWWWWWWWWW          WWWW WWWW                         WWWWW WWWWW                     WWWWW WWWWW              WWWWWWW WWWWWWWWWWWWWWWWWWWW WWWWWWWW "
 ],
 "2420": [
-"omg... :O  ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ █░▄▄▄▄▄░█▀░█▀▀▀▀▀░█░▄▄▄▄▄░█ █░█░░░█░█▀░▄░██▄▀▄█░█░░░█░█ █░█▄▄▄█░█▀█░█▄░▀▀░█░█▄▄▄█░█ █▄▄▄▄▄▄▄█▄█▄█░▀▄▀░█▄▄▄▄▄▄▄█ █▄▄▄▄░█▄░░░▄█▄█▄▄▀▄█░█▄█░██ █▄█░██▀▄▀█░▀░▄█▀░█▀░░█▄▄░░█ █▀▀▄░▀█▄░▀▄▀▄▀▀▀▄█░▄▀▄▄░███ █░█▀▄▄▀▄▀▄▀▄█▀░▄▄█▀▄███▄▄░█ █▄██▄█▄▄▄░▀▀█▄█▄▄░▄▄▄░█▄▀▄█ █░▄▄▄▄▄░█▄▄▄░▄█▀█░█▄█░░█▄▄█ █░█░░░█░█░▀█▄▀▀▀▄▄░░▄░▄▄▀░█ █░█▄▄▄█░█░░██▀░▄▀▀░▀▀▀█▄█░█ █▄▄▄▄▄▄▄█▄███▄█▄███▄███▄▄▄█  "
 ],
 "2421": [
-"Here lies Isrever"
 ],
 "2422": [
-"Here lies BinarySemaphore"
 ],
 "2423": [
-"Here lies Sean 'Ariamaki' Riedinger"
 ],
 "2424": [
 "ERROR: Unknown Language"
 ],
 "2425": [
-"Village"
 ],
 "2426": [
 "The one and only Hearthian village, as well as the main source of explosions on this planet."
@@ -7368,7 +7299,6 @@
 "Hal says the statue has never opened its eyes before (despite Hornfels' best efforts)."
 ],
 "2429": [
-"Zero-G Cave"
 ],
 "2430": [
 "I hear Gossan has the zero-g cave set up if I want a refresher before I launch."
@@ -7380,10 +7310,8 @@
 "I successfully repaired another \"satellite\" for Gossan."
 ],
 "2433": [
-"Dark Bramble Seed"
 ],
 "2434": [
-"Harmonica Signal"
 ],
 "2435": [
 "Esker's signalscope log reports harmonica music coming from somewhere on Timber Hearth. They claim it sounds just like Feldspar's harmonica, but Feldspar disappeared in space ages ago."
@@ -7398,7 +7326,6 @@
 "I launched my Little Scout into the seed. Somehow the seed is much bigger on the inside."
 ],
 "2439": [
-"Nomai Mines"
 ],
 "2440": [
 "The Nomai were mining ore somewhere on Timber Hearth."
@@ -7413,10 +7340,8 @@
 "The Nomai discovered a species of four-eyed, semi-aquatic lifeforms in the waterways near the mine."
 ],
 "2444": [
-"Quantum Grove"
 ],
 "2445": [
-"Quantum Signal"
 ],
 "2446": [
 "Chert detected a strange signal coming from the crater at Timber Hearth's south pole. It's very similar to the signal emitted by the Quantum Moon."
@@ -7431,13 +7356,11 @@
 "I found a poem written on one of the trees in the grove."
 ],
 "2450": [
-"Radio Tower"
 ],
 "2451": [
 "A radio tower designed to receive photos taken by the deep space satellite. There are several photos of the entire solar system hanging on the walls. Hornfels noticed something strange in one of the photos, but concluded equipment malfunction was the only sensible explanation."
 ],
 "2452": [
-"Riebeck’s Camp"
 ],
 "2453": [
 "Riebeck headed to Brittle Hollow to investigate something the Nomai were doing at the south pole."
@@ -7458,7 +7381,6 @@
 "Riebeck is Timber Hearth's only archaeologist. They overcame their fear of space to explore Brittle Hollow's treasure trove of Nomai culture."
 ],
 "2459": [
-"Gravity Cannon"
 ],
 "2460": [
 "A huge cylindrical structure that generates a strong upward gravity field."
@@ -7467,7 +7389,6 @@
 "I recalled a Nomai shuttle from the Quantum Moon."
 ],
 "2462": [
-"Tower of Quantum Knowledge"
 ],
 "2463": [
 "This tower (located on Brittle Hollow's equator) held useful knowledge for Nomai embarking on their first pilgrimage to the Quantum Moon."
@@ -7485,7 +7406,6 @@
 "After the two groups of Nomai stranded on Ember Twin and Brittle Hollow were reunited, it became their united goal to find and visit the Quantum Moon."
 ],
 "2468": [
-"Quantum Shard"
 ],
 "2469": [
 "The Nomai noticed a strange rock shard that appeared to wander when no one was watching."
@@ -7500,7 +7420,6 @@
 "This shard emits the same signal as the Quantum Moon."
 ],
 "2473": [
-"Northern Glacier"
 ],
 "2474": [
 "The north pole of Brittle Hollow is covered in snow and ice. There is a uniquely shaped Nomai ruin on the surface."
@@ -7509,7 +7428,6 @@
 "The Nomai were able to warp here from the White Hole Station. This is where they first recreated warp technology."
 ],
 "2476": [
-"Escape Pod 1"
 ],
 "2477": [
 "One of the three Nomai escape pods landed somewhere on Brittle Hollow."
@@ -7521,10 +7439,8 @@
 "All three escape pods were launched from something called the Vessel, which was badly damaged."
 ],
 "2480": [
-"Old Settlement"
 ],
 "2481": [
-"Shelter Site"
 ],
 "2482": [
 "The Nomai survivors who crashed on Brittle Hollow climbed down the cliff to a shelter site below the surface."
@@ -7542,28 +7458,23 @@
 "The Nomai abandoned this settlement over growing concerns about its stability."
 ],
 "2487": [
-"Mural (Panel 3)"
 ],
 "2488": [
 "A mural of three escape pods evacuating the Nomai vessel."
 ],
 "2489": [
-"Mural (Panel 2)"
 ],
 "2490": [
 "A mural of Dark Bramble ensnaring the Nomai vessel."
 ],
 "2491": [
-"Mural (Panel 1)"
 ],
 "2492": [
 "A mural of a Nomai vessel encountering a signal."
 ],
 "2493": [
-"The Hanging City"
 ],
 "2494": [
-"Northern Settlement"
 ],
 "2495": [
 "The Nomai decided to migrate from the Old Settlement to the northern glacier. They used gravity crystals to craft a stable path beneath the surface."
@@ -7584,7 +7495,6 @@
 "The Nomai traveled to this solar system in pursuit of a signal from something older than the universe itself. They named the source of this signal the \"Eye of the universe.\""
 ],
 "2501": [
-"Black Hole Forge"
 ],
 "2502": [
 "The Black Hole Forge is suspended below the Hanging City. I found a switch in the Meltwater District that raises and lowers the forge."
