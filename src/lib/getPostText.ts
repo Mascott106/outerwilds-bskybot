@@ -27,13 +27,13 @@ export default async function getPostText() {
     }
 
 // USED FOR TESTING SPECIFIC OBJECTS
-         if (!testBool) {
-          quoteText = lang_en[125][0];
-          } else {
-           quoteText = lang_en[selectNum][0];
-       }
+      //    if (!testBool) {
+      //     quoteText = lang_en[125][0];
+      //     } else {
+      //      quoteText = lang_en[selectNum][0];
+      //  }
 
-    //quoteText = lang_en[selectNum][0];
+    quoteText = lang_en[selectNum][0];
 
     console.log(quoteText);
 
@@ -45,7 +45,7 @@ export default async function getPostText() {
     } else {
       console.log(quoteText);
       console.log("Quote outside of boundaries. Trying again.");
-      testBool = true;
+      // testBool = true;
     }
   }
 
