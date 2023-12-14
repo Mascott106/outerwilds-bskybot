@@ -37,15 +37,15 @@ export default async function getPostText() {
     if (typeof quoteText == 'string' && quoteText.length < 301 && quoteText.length > 1) {
       console.log("Quote okay! Continuing...");
       confirmedQuoteText = quoteText;
-      gotText = true; 
+      gotText = true;
+    } else if (typeof quoteText != 'string'){
+      console.log("Quote not a string. Trying again...");
+      //testBool = false;
     } else if (quoteText.length < 1) {
       console.log("Quote too short. Trying again...");
       //testBool = true;
     } else if (quoteText.length > 300){
       console.log("Quote too long. Trying again...");
-      //testBool = false;
-    } else if (typeof quoteText != 'string'){
-      console.log("Quote not a string. Trying again...");
       //testBool = false;
     } else {
       console.log("Quote not okay. Trying again...");
