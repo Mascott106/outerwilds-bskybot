@@ -126,7 +126,7 @@
 "ALERT. Collision imminent. Preparing for impact."
 ],
 "43": [
-"Scanning external environment... Scan complete. Minor structural instabilities detected. Pockets of breathable air detected. Adequate solar energy detected. Verdict: HOSPITABLE."
+"Scanning external environment... Scan complete. Minor structural instabilities detected. Pockets of breathable air detected. Adequate solar energy detected.\nVerdict: HOSPITABLE."
 ],
 "44": [
 "CONOY: Cassava’s Construction Yard has been using the cyclones on Giant’s Deep to lift Orbital Probe Cannon parts into orbit, but one component was pushed down past the current that usually prevents anything from sinking."
@@ -853,7 +853,7 @@
 "Remember landing our ship on the Sun Station?"
 ],
 "291": [
-"Yeah! That feels like ages ago. We'd have died that first time out if the time loop didn't exist, though. Isn't that weird to think about?"
+"Yeah! That feels like ages ago. \nWe'd have died that first time out if the time loop didn't exist, though. Isn't that weird to think about?"
 ],
 "292": [
 "Weirder than there being two of us now?"
@@ -871,7 +871,7 @@
 "It's unsettling to think about. Especially when you remember even Riebeck survived their first launch."
 ],
 "297": [
-"YES. I can’t believe no one was around to see that. We’re probably the best pilot in the space program by now."
+"YES. I can’t believe no one was around to see that. \nWe’re probably the best pilot in the space program by now."
 ],
 "298": [
 "Yeah, but we’ve also died more than anyone else."
@@ -1058,10 +1058,8 @@
 "Ash Twin warp network status: All towers online."
 ],
 "360": [
-"Ash Twin warp network status: Sun tower offline as of MinutesSinceRedGiant minutes SecondsSinceRedGiant seconds ago. All other towers online."
 ],
 "361": [
-"Sun tower offline as of MinutesSinceRedGiant minutes SecondsSinceRedGiant seconds ago. All other towers online."
 ],
 "362": [
 "POKE: Welcome to the White Hole Station! If you fell through the black hole by accident (don't worry, you aren’t the first), this warp tower can return you to Brittle Hollow."
@@ -1076,8 +1074,6 @@
 "POKE: If you look up while the station is rotating, you can see the alignment happens when the astral body is directly overhead."
 ],
 "366": [
-"Gabbro",
-"Name"
 ],
 "367": [
 "Nice, it’s you. Good to see you made it here in one piece. The first solo launch is a doozy, isn’t it?"
@@ -1722,7 +1718,7 @@
 "While we hope to repair the radio tower in the future, all construction efforts are currently focused on the planned museum expansion at the Observatory."
 ],
 "581": [
-"Sincerest apologies, except to Slate and Mica, Hornfels (museum curator)"
+"Sincerest apologies, except to Slate and Mica, \nHornfels (museum curator)"
 ],
 "582": [
 "The radio tower here on Timber Hearth was built to receive transmissions from our deep space satellite, and to this day still houses the first-ever photos taken of the entire solar system."
@@ -1746,8 +1742,6 @@
 "Our quest to explore the furthest reaches of our solar system wouldn’t be possible without generous visitors like you! We thank you profusely for your support, and we hope to see you again soon."
 ],
 "589": [
-"Slate",
-"Name"
 ],
 "590": [
 "There’s our pilot! Back from your pre-launch campout under the stars, I see."
@@ -1849,13 +1843,13 @@
 "Is that... safe?"
 ],
 "623": [
-"Well, it’s all very conceptual, but basically, it’s like taking a regular second-stage booster and strapping a bigger rocket onto it. Isn’t that great?"
+"Well, it’s all very conceptual, but basically, it’s like taking a regular second-stage booster and strapping a bigger rocket onto it.\nIsn’t that great?"
 ],
 "624": [
 "Probably!"
 ],
 "625": [
-"Oh, it’s a perfect ten. Unless you’re factoring in pilot error, in which case it’s about a four. No offense."
+"Oh, it’s a perfect ten. Unless you’re factoring in pilot error, in which case it’s about a four. \nNo offense."
 ],
 "626": [
 "Oh, hold up, you’re going to want to get the launch codes from the observatory first."
@@ -1888,7 +1882,7 @@
 "I won’t ask how you got the codes, so hurry up and launch before Hornfels decides to ground you for medical reasons.  I want to see whether the new cockpit stays attached during liftoff."
 ],
 "636": [
-"Looks like you’re ready for takeoff! The excitement of a launch is fun and all, but I can’t wait to get back to working on the new ship. We’re working on fixing the autopilot’s avoidance system for this one!"
+"Looks like you’re ready for takeoff! The excitement of a launch is fun and all, but I can’t wait to get back to working on the new ship. \nWe’re working on fixing the autopilot’s avoidance system for this one!"
 ],
 "637": [
 "...Uh, sorry."
@@ -2023,8 +2017,6 @@
 "ERROR: Unable to determine orbit. No signal detected matching any known criteria for the Eye of the universe."
 ],
 "681": [
-"Feldspar",
-"Name"
 ],
 "682": [
 "Whoa!"
@@ -2392,7 +2384,7 @@
 "Journal"
 ],
 "803": [
-"GABBRO’S 3 FOOLPROOF STEPS FOR DOZING OFF 1.     Light a nice, cozy campfire and get comfortable. 2.     Gaze deeply into the serene warmth. 3.     Let time begin to slip away as you allow the flames to lull you into a peaceful slumber.",
+"GABBRO’S 3 FOOLPROOF STEPS FOR DOZING OFF \n1. Light a nice, cozy campfire and get comfortable. \n2. Gaze deeply into the serene warmth. \n3. Let time begin to slip away as you allow the flames to lull you into a peaceful slumber.",
 "Journal"
 ],
 "804": [
@@ -2432,8 +2424,6 @@
 "Recording"
 ],
 "813": [
-"the Prisoner",
-"Name"
 ],
 "814": [
 "This fire… what a warm and beautiful light it makes."
@@ -2565,8 +2555,6 @@
 "THATCH: Then we will build it. Don’t lose hope, Cassava; our search for the Eye is what brought our clan to this place. We won’t give up so easily!"
 ],
 "857": [
-"Hal",
-"Name"
 ],
 "858": [
 "Hey, hey, it’s my favorite astronaut! Launch day at last, huh, buddy? It’s the translator tool’s inaugural flight, too! I’m so excited it’s making me nauseous."
@@ -3549,7 +3537,7 @@
 "Launching Escape Pod 3... Now launching Escape Pod 2."
 ],
 "1186": [
-"Scanning external environment... Scan complete. External temperature is prohibitively high. Verdict: INHOSPITABLE. Do not seek shelter on planet surface."
+"Scanning external environment... Scan complete. External temperature is prohibitively high. \nVerdict: INHOSPITABLE. Do not seek shelter on planet surface."
 ],
 "1187": [
 "MELORAE: This is amazing (look inside the cave)! How did this come to rest here? We haven’t encountered others in these caves; I think this is a rare find."
@@ -3906,7 +3894,6 @@
 "Star has reached end of natural life cycle. Now approaching red giant stage. WARNING: Evacuate Sun Station."
 ],
 "1305": [
-"Approximate time until Sun Station is destroyed by expanding star: RemainingMinutes MINUTES, RemainingSeconds SECONDS Approximate time until star’s death: MinutesToRedGiant MINUTES, SecondsToRedGiant SECONDS"
 ],
 "1306": [
 "YARROW: Phlox and Daz finished the memory statues today, and they are truly remarkable."
@@ -4062,7 +4049,7 @@
 "Note"
 ],
 "1353": [
-"Trip 4, entry # whatever Crashes: 2 Boring crashes: 0 (remember to see Slate when I get back)",
+"Trip 4, entry # whatever \nCrashes: 2 \nBoring crashes: 0 (remember to see Slate when I get back)",
 "Journal"
 ],
 "1354": [
@@ -4084,11 +4071,9 @@
 "DANGER! Inside this fence is a pocket of ghost matter - a strange and dangerous substance that’s invisible to the naked eyes. The good news is that you can detect ghost matter with a camera."
 ],
 "1359": [
-"Moving through ghost matter is uniquely painful and will probably kill you. Don’t complain to me if you hurt yourself fooling around. - Hornfels"
+"Moving through ghost matter is uniquely painful and will probably kill you. Don’t complain to me if you hurt yourself fooling around. \n- Hornfels"
 ],
 "1360": [
-"Gneiss",
-"Name"
 ],
 "1361": [
 "Hello there, space cadet! I hear you’re leaving the crater today."
@@ -4154,8 +4139,6 @@
 "Alright. Take care, now."
 ],
 "1382": [
-"Gossan",
-"Name"
 ],
 "1383": [
 "Hey, I thought I might see you before the big launch."
@@ -4269,7 +4252,7 @@
 "Oi, don’t forget to put on a suit! I don’t want to have to come fish you out of there again."
 ],
 "1420": [
-"Hey! Come say hi to your old flight coach before your launch. I’ve got zero-g training set up if you want a refresher. -Gossan",
+"Hey! Come say hi to your old flight coach before your launch. I’ve got zero-g training set up if you want a refresher. \n-Gossan",
 "Note"
 ],
 "1421": [
@@ -4387,8 +4370,6 @@
 "Be careful out there in space!"
 ],
 "1459": [
-"Marl",
-"Name"
 ],
 "1460": [
 "So it’s launch day, huh? Hal’s going to miss you."
@@ -4436,8 +4417,6 @@
 "What are you doing back? Did you forget your spacesuit or something?"
 ],
 "1475": [
-"Porphy",
-"Name"
 ],
 "1476": [
 "Heyo, hatchling!"
@@ -4582,8 +4561,6 @@
 "Recording"
 ],
 "1516": [
-"Rutile",
-"Name"
 ],
 "1517": [
 "You’re actually blasting off in that thing, huh?"
@@ -4643,20 +4620,14 @@
 "You’re back already? Is everything OK?"
 ],
 "1536": [
-"East: Nomai Ruins"
 ],
 "1537": [
-"North: Youngbark Crater"
 ],
 "1538": [
-"Northwest: Geyser Mountains"
 ],
 "1539": [
-"South: Quantum Grove Crater"
 ],
 "1540": [
-"Spinel",
-"Name"
 ],
 "1541": [
 "Fishing rhyme, fishing rhyme... Singing helps me pass the time."
@@ -4770,8 +4741,6 @@
 "Fishing tune, fishing tune... uh... yeah, I didn’t think this one through at all."
 ],
 "1578": [
-"Tektite",
-"Name"
 ],
 "1579": [
 "Heyo, hatchling! Thought you were taking that tin can of yours into space today - what’re you still doing here?"
@@ -4876,8 +4845,6 @@
 "Alright then, see you around."
 ],
 "1613": [
-"Tephra",
-"Name"
 ],
 "1614": [
 "Hullo, astronaut!"
@@ -4982,8 +4949,6 @@
 "Are you bringing lots of mallows with you to roast on your trip? Mallows are my favorite!"
 ],
 "1648": [
-"Tuff",
-"Name"
 ],
 "1649": [
 "Hey, hey. Nice of you to drop down."
@@ -5109,8 +5074,6 @@
 "Give me the dirt."
 ],
 "1690": [
-"Arkose",
-"Name"
 ],
 "1691": [
 "Hi, astronaut!"
@@ -5167,23 +5130,17 @@
 "Outer Wilds Ventures was founded by Feldspar, Gossan, Slate, and Hornfels to explore a solar system at the end of the universe."
 ],
 "1709": [
-"Galena",
-"Name"
 ],
 "1710": [
-"..."
 ],
 "1711": [
-"..."
 ],
 "1712": [
 "Good luck in space."
 ],
 "1713": [
-"..."
 ],
 "1714": [
-"..."
 ],
 "1715": [
 "You found me..."
@@ -5195,7 +5152,6 @@
 "Thanks... for playing with us."
 ],
 "1718": [
-"..."
 ],
 "1719": [
 "This crystal was taken from a Nomai ruin on Brittle Hollow."
@@ -5204,8 +5160,6 @@
 "It seems to create a local gravity distortion, and was most likely used to traverse steep surfaces. Try it out!"
 ],
 "1721": [
-"Mica",
-"Name"
 ],
 "1722": [
 "Hey, it’s you!"
@@ -5304,8 +5258,6 @@
 "Whatever is actually happening, both sides of this debate agree the effect is extremely creepy."
 ],
 "1754": [
-"Riebeck",
-"Name"
 ],
 "1755": [
 "Oh, you launched! That’s great. Great job, you."
@@ -5739,7 +5691,6 @@
 "PHLOX: Each storage unit will be equipped with a mask, the statue’s counterpart, which will be able to send those stored memories back to the corresponding Nomai."
 ],
 "1905": [
-"TimeMinutes MINUTES, TimeSeconds SECONDS AGO: Request to launch probe received from Ash Twin Project."
 ],
 "1906": [
 "Cannon aligned with randomly selected probe trajectory. Gravity field activated."
@@ -5904,8 +5855,6 @@
 "ROOT: It will be significantly more. The smallest crack or opening in the protective shell would destroy everything."
 ],
 "1960": [
-"Solanum",
-"Name"
 ],
 "1961": [
 "Who are you?"
@@ -5917,16 +5866,13 @@
 "281,042 YEARS AGO: No user commands received for 10 minutes. All systems entering sleep."
 ],
 "1964": [
-"TimeMinutes MINUTES, TimeSeconds SECONDS AGO: Increased solar activity detected. Sun Station hull integrity approaching critical levels. Closing emergency doors."
 ],
 "1965": [
-"TimeMinutes MINUTES, TimeSeconds SECONDS AGO: Received data from previous cycles."
 ],
 "1966": [
-"MASKS RECEIVING DATA FROM: Probe Tracking Module Giant's Deep memory statue Timber Hearth memory statue"
+"MASKS RECEIVING DATA FROM: \nProbe Tracking Module \nGiant's Deep memory statue \nTimber Hearth memory statue"
 ],
 "1967": [
-"TimeMinutesRemaining MINUTES UNTIL END-OF-CYCLE TRANSMISSION"
 ],
 "1968": [
 "YARROW: Some time has passed since I checked in with you, Pye. How are you and Idaea progressing with the Sun Station plans?"
@@ -5953,8 +5899,6 @@
 "IDAEA: That, at least, we can agree on."
 ],
 "1976": [
-"Chert",
-"Name"
 ],
 "1977": [
 "Goodness, it’s you! Hello! I take it your first launch went well, then? Welcome to the Hourglass Twins. Mind the sand, now."
@@ -6404,8 +6348,6 @@
 "NEW EXHIBITS COMING SOON!"
 ],
 "2126": [
-"Esker",
-"Name"
 ],
 "2127": [
 "Oh, hey, it’s you!"
@@ -6576,28 +6518,22 @@
 "Ahh, I hope there are beasties in the next one."
 ],
 "2183": [
-"Trip 4(?), entry #... I’m gonna say “not 1.” Crashes: 3 Boring crashes: 0 (a personal best!)",
-"Journal"
+"Trip 4(?), entry #... I’m gonna say “not 1.” \nCrashes: 3 \nBoring crashes: 0 (a personal best!)",
 ],
 "2184": [
 "Whoa ho! Never thought I’d see one of these beasties outside of Giant’s Deep! They were awfully useful back there — maybe a jellyfish could be useful here, too?",
-"Journal"
 ],
 "2185": [
 "BLEARGH. This thing tastes terrible! The outside is all rubbery and tough -- maybe that’s because it insulates the jellyfish’s insides from getting zapped by electricity?",
-"Journal"
 ],
 "2186": [
 "Right, I’m going inside of this jellyfish’s interior cavity to see if what’s in there tastes any better.",
-"Journal"
 ],
 "2187": [
 "Note to Feldspar: DO NOT EAT THIS EVEN IF YOU ARE DYING. It would be too sad if this were the last thing you ever ate in this life.",
-"Journal"
 ],
 "2188": [
 "I guess these jellyfish are only useful for insulation from electricity. Again, DO NOT EAT. (Love, Feldspar)",
-"Journal"
 ],
 "2189": [
 "Nice, it’s you. Good to see you made it here in one piece. The first solo launch is a doozy, isn’t it?"
@@ -6891,8 +6827,6 @@
 "It’s the kind of thing that makes you glad you stopped and smelled the pine trees along the way, you know?"
 ],
 "2286": [
-"Hornfels",
-"Name"
 ],
 "2287": [
 "There you are! I just finished pre-flight observations, and local conditions are good. Time to get our newest astronaut off the ground!"
@@ -7117,8 +7051,6 @@
 "But if that’s true, was everything closer together in the past? And how far back can we extrapolate? Did the universe have a beginning?"
 ],
 "2361": [
-"Moraine",
-"Name"
 ],
 "2362": [
 "Hm? Oh, hello, astronaut."
@@ -7252,7 +7184,7 @@
 "But unless they are collapsed by an observer, they will never be more than possibilities."
 ],
 "2408": [
-"I saw smoke coming from Youngbark Crater up north and figured I should go check it out. You can use the scout launcher, just please don’t break it while I’m gone. – Tektite"
+"I saw smoke coming from Youngbark Crater up north and figured I should go check it out. You can use the scout launcher, just please don’t break it while I’m gone. \n– Tektite"
 ],
 "2409": [
 ],
@@ -7460,17 +7392,14 @@
 "2487": [
 ],
 "2488": [
-"A mural of three escape pods evacuating the Nomai vessel."
 ],
 "2489": [
 ],
 "2490": [
-"A mural of Dark Bramble ensnaring the Nomai vessel."
 ],
 "2491": [
 ],
 "2492": [
-"A mural of a Nomai vessel encountering a signal."
 ],
 "2493": [
 ],
@@ -7524,7 +7453,6 @@
 "A Nomai named Poke successfully forged an advanced warp core for the Ash Twin Project."
 ],
 "2511": [
-"Alignment Angle Diagram"
 ],
 "2512": [
 "A diagram depicting the alignment angle between a warp tower and its corresponding astral body."
@@ -7539,7 +7467,6 @@
 "Anyone stepping onto the warp platform during the active window will be immediately warped."
 ],
 "2516": [
-"Southern Observatory"
 ],
 "2517": [
 "The Nomai decided to build a larger, more sophisticated Eye signal locator on Brittle Hollow's south pole."
@@ -7566,10 +7493,8 @@
 "There were concerns that the probability of launching a probe in the correct direction would be absurdly small."
 ],
 "2525": [
-"Tornado Simulation"
 ],
 "2526": [
-"Ocean Current Discovery"
 ],
 "2527": [
 "The Nomai at the Southern Observatory constructed a model of Giant's Deep that revealed how an object might sink below the strong ocean current."
@@ -7581,13 +7506,11 @@
 "There also exists a rarer type of cyclone that spins the opposite direction and pushes objects beneath the waters and below the current."
 ],
 "2530": [
-"Feldspar’s Camp"
 ],
 "2531": [
 "Feldspar headed off to Dark Bramble after reaching the core of Giant's Deep."
 ],
 "2532": [
-"Inside the Seed"
 ],
 "2533": [
 "When I launch my scout into the seed that crashed on Timber Hearth, it ends up in a much bigger space filled with fog and thorny vines."
@@ -7602,10 +7525,8 @@
 "Feldspar doesn't sound overly eager to return to civilization. They've been enjoying the (relative) peace and quiet."
 ],
 "2537": [
-"Frozen Jellyfish"
 ],
 "2538": [
-"Hollow Vine"
 ],
 "2539": [
 "Feldspar hinted that a secret to reaching the core of Giant's Deep lies at the end of the hollow vine they crashed their ship into. To find Feldspar's ship, I'll want to go to the tail end of the anglerfish skeleton and look for a flickering light in the fog."
@@ -7620,7 +7541,6 @@
 "After tasting the inside of the jellyfish, Feldspar concluded that these jellyfish are only useful for insulation from electricity."
 ],
 "2543": [
-"Escape Pod 3"
 ],
 "2544": [
 "One of the three Nomai escape pods never made it out of Dark Bramble."
@@ -7635,10 +7555,8 @@
 "The survivors from Escape Pod 3 detected two distinct beacons from the Vessel, as if it was in two locations at once."
 ],
 "2548": [
-"Nomai Grave"
 ],
 "2549": [
-"Escape Pod 3 Survivors"
 ],
 "2550": [
 "The survivors from Escape Pod 3 abandoned the wreckage and attempted to return to the Vessel."
@@ -7659,7 +7577,6 @@
 "If I launch my scout into the seed, I can take photos of an enormous derelict Nomai ship."
 ],
 "2556": [
-"The Vessel"
 ],
 "2557": [
 "The Nomai warped to this solar system in a spaceship called the Vessel. They were attempting to follow a signal from the Eye of the universe."
@@ -7692,7 +7609,6 @@
 "I found a recording of the original signal the Nomai encountered from the Eye of the universe. The Nomai were worried the signal might disappear, so they warped before they could tell another clan where they were going."
 ],
 "2567": [
-"Orbital Probe Cannon"
 ],
 "2568": [
 "The Nomai finished building the final module for the Orbital Probe Cannon and sent it into orbit around Giant’s Deep."
@@ -7704,7 +7620,6 @@
 "The Nomai decided to construct a probe cannon in orbit around Giant’s Deep."
 ],
 "2571": [
-"Orbital Flash"
 ],
 "2572": [
 "Gabbro sees a bright flash in the sky at the start of every loop. Something must be happening in orbit around Giant’s Deep."
@@ -7746,7 +7661,6 @@
 "I found Nomai coordinates marking the location of the Eye of the universe."
 ],
 "2585": [
-"One of the Orbital Probe Cannon’s three modules."
 ],
 "2586": [
 "The Launch Module looks heavily damaged. There’s a huge breach in the glass viewport."
@@ -7764,7 +7678,6 @@
 "A Nomai named Privet countered that they wouldn't be capable of receiving the probe's data if the Probe Tracking Module was destroyed."
 ],
 "2591": [
-"One of the Orbital Probe Cannon’s three modules."
 ],
 "2592": [
 "The Control Module (recently) received a request from the Ash Twin Project to launch the probe. The cannon was aligned with a randomly selected probe trajectory."
@@ -7773,13 +7686,11 @@
 "The probe was successfully launched, but the cannon's structural integrity was compromised in the process. Damage is detected in multiple modules."
 ],
 "2594": [
-"The Stranger"
 ],
 "2595": [
 "A massive artificial ring world hidden within some sort of cloaking field. It does not appear to be Hearthian or Nomaian in origin."
 ],
 "2596": [
-"River Lowlands"
 ],
 "2597": [
 "A low-lying region near the entrance to the Stranger. There are wooden buildings along the banks of the river."
@@ -7788,7 +7699,6 @@
 "I found several ornate metal artifacts inside a workshop surrounded by ghost matter."
 ],
 "2599": [
-"Burned Slide Reel"
 ],
 "2600": [
 "A slide reel that shows the origin of the Stranger and its inhabitants."
@@ -7797,10 +7707,8 @@
 "Several slides have been burned and cannot be viewed."
 ],
 "2602": [
-"Slide Burning Room"
 ],
 "2603": [
-"Secret Location"
 ],
 "2604": [
 "A map I found in the Abandoned Temple reveals a secret location somewhere within the Stranger."
@@ -7812,7 +7720,6 @@
 "I found a hidden slide reel that shows a container marked with a glowing symbol being handed to a shadowy figure. The figure follows a procession of green lights through a forest to a candlelit building, where they carry the container into a secret passage behind a roaring fireplace."
 ],
 "2607": [
-"Cinder Isles"
 ],
 "2608": [
 "A pair of small rocky islands connected by a village of stilt houses."
@@ -7833,10 +7740,8 @@
 "I found a hidden slide reel that shows a container marked with a glowing symbol being handed to a shadowy figure. The lights are extinguished, and the figure carries the container down into a dark well."
 ],
 "2614": [
-"Island Tower"
 ],
 "2615": [
-"Island Cave"
 ],
 "2616": [
 "I found a projection that reveals a cave entrance at the base of a rocky island with a tall tower."
@@ -7848,10 +7753,8 @@
 "I found a slide reel that shows the Stranger's inhabitants opening a secret passage in a round room filled with lanterns and murals. The inhabitants are shown filing into three of these rooms throughout the Stranger."
 ],
 "2619": [
-"Symbol Room"
 ],
 "3675": [
-"Hidden Vault Seals"
 ],
 "3676": [
 "The light coming out of the vault gave me a vision of climbing a spiral staircase to a room near the top of a tower. One of the Stranger's inhabitants pointed at a mural of an identical tower beneath a ringed planet, then picked up an artifact and carried it downstairs to a room with a green fire. Some time later, two of the lamps in the mural room turned off, plunging the mural into darkness and revealing a secret passage."
@@ -7869,7 +7772,6 @@
 "I opened the container marked with the symbol of a burning slide reel and found a vertical sequence of symbols inside."
 ],
 "2625": [
-"Hidden Gorge"
 ],
 "2626": [
 "A narrow gorge along the rightmost branch of the river. There are dwellings built into both cliff faces high above."
@@ -7881,10 +7783,8 @@
 "A slide reel that shows the Stranger's inhabitants congregating around a strange green fire."
 ],
 "2629": [
-"Damaged Laboratory"
 ],
 "2630": [
-"Hull Breach"
 ],
 "2631": [
 "I found a slide reel in the Hidden Gorge that shows an explosion blowing a hole in the side of the Stranger."
@@ -7899,10 +7799,8 @@
 "I found a slide reel that shows three experiments conducted with three different artifacts. The third experiment appears to have been a success."
 ],
 "2635": [
-"Abandoned Temple"
 ],
 "2636": [
-"Cliffside Building"
 ],
 "2637": [
 "I saw a building marked with a unique symbol recessed into one of the canyon walls, but the bridge that used to lead to it has rotted away."
@@ -7920,25 +7818,21 @@
 "I found a slide reel that shows the Stranger's inhabitants removing all of the slide reels from their shelves, scanning each reel with a device, and incinerating specific slides as well as entire reels."
 ],
 "2642": [
-"Map Projection 1"
 ],
 "2643": [
 "A projection that seems to reveal a secret location somewhere within the Stranger."
 ],
 "2644": [
-"Map Projection 2"
 ],
 "2645": [
 "A projection that seems to reveal a secret location somewhere within the Stranger."
 ],
 "2646": [
-"Map Projection 3"
 ],
 "2647": [
 "A projection that seems to reveal a secret location somewhere within the Stranger."
 ],
 "2648": [
-"Reservoir"
 ],
 "2649": [
 "An enormous reservoir with wooden piers and buildings on both shores."
@@ -7956,13 +7850,11 @@
 "Nearly all of the slides have been burned and cannot be viewed."
 ],
 "2654": [
-"Submerged Structure"
 ],
 "2655": [
 "According to a slide reel, a strange vault was encased in a large metal structure and lowered underwater."
 ],
 "2656": [
-"Hollow Structure"
 ],
 "2657": [
 "I found a diagram of a hollow metal structure suspended by chains. There is a round hole underneath that appears to be the only entrance."
@@ -7974,10 +7866,8 @@
 "There is a sealed vault illuminated by a green fire inside the structure."
 ],
 "2660": [
-"Subterranean Lake"
 ],
 "3678": [
-"Enclosed Fire"
 ],
 "3679": [
 "I looked through a peephole in the side of a large metal structure suspended by chains. Inside is another green fire and a staircase leading farther below."
@@ -7986,7 +7876,6 @@
 "I looked through a peephole in the side of a large metal structure suspended by chains like the one in the Reservoir. Inside is another green fire and a staircase leading farther below."
 ],
 "3681": [
-"Vault Room Fire"
 ],
 "3682": [
 "I saw a vision-like recording of two figures taking artifacts into a large metal structure suspended by chains and going to sleep at the green fire in front of the sealed vault. Upon waking up with lit artifacts, the two figures picked up the vault and carried it down a staircase to somewhere farther below."
@@ -8001,7 +7890,6 @@
 "I rotated the mechanism in front of the vault, causing it to strain against the chains holding it shut. Moments later rays of green light spilled out of the vault."
 ],
 "2667": [
-"Sealed Vault"
 ],
 "2668": [
 "I found a strange vault wrapped in chains and marked with three glowing symbols."
@@ -8028,7 +7916,6 @@
 "The Prisoner left one final vision for me by the water's edge as a farewell."
 ],
 "2675": [
-"Shrouded Woodlands"
 ],
 "2676": [
 "I rode a raft through a densely wooded stretch of river. I can see buildings along the banks of the river."
@@ -8043,10 +7930,8 @@
 "I found a covered bridge leading into the darkest part of the forest."
 ],
 "2680": [
-"Forbidden Archive"
 ],
 "2681": [
-"Secret Fireplace"
 ],
 "2682": [
 "I found a hidden slide reel that shows a container marked with a glowing symbol being handed to a shadowy figure. The figure follows a procession of lights through a forest to a candlelit building, where they carry the container into a secret passage behind a roaring fireplace."
@@ -8067,10 +7952,8 @@
 "I found a slide reel that appears to be some sort of error report. It shows one of the Stranger's inhabitants jumping off a raft during a transition between areas and falling below the world."
 ],
 "2688": [
-"Starlit Cove"
 ],
 "2689": [
-"Candlelit Tower"
 ],
 "2690": [
 "I rode a raft past an island with a tall candlelit tower."
@@ -8088,7 +7971,6 @@
 "I reached the tower's upper floors by projecting a path to a second entrance at the back of the tower."
 ],
 "2695": [
-"Secret Well"
 ],
 "2696": [
 "The reel I found in the slide burning room shows a container marked with a glowing symbol being handed to a shadowy figure. The lights are extinguished, and the figure carries the container down into a dark well."
@@ -8109,7 +7991,6 @@
 "I found a slide reel that appears to be some sort of error report. It shows an alarm bell failing to wake up one of the Stranger's inhabitants."
 ],
 "2702": [
-"Endless Canyon"
 ],
 "2703": [
 "I rode a raft through the bottom of a massive canyon. It looks like there are buildings set into the cliff face high above."
@@ -8121,7 +8002,6 @@
 "I found a mural of a large tree on the bottom floor of the lodge."
 ],
 "2706": [
-"Secret Mural"
 ],
 "2707": [
 "The reel I found in the slide burning room shows a container marked with a glowing symbol being handed to a shadowy figure. The lights are extinguished, and the figure carries the container into a secret passage behind a mural of a large tree."
@@ -8136,7 +8016,6 @@
 "I found a slide reel that appears to be some sort of error report. It shows one of the Stranger's inhabitants dropping their artifact on the ground and walking beyond its projection radius."
 ],
 "2711": [
-"Chert’s Camp"
 ],
 "2712": [
 "Chert has set up their astronomy gear on the north pole of Ember Twin."
@@ -8154,7 +8033,6 @@
 "Chert has become catatonic in response to our sun's imminent death."
 ],
 "2717": [
-"Quantum Moon Locator"
 ],
 "2718": [
 "A Nomai device created to track the Quantum Moon's location."
@@ -8172,16 +8050,13 @@
 "I recalled a Nomai shuttle from the Interloper."
 ],
 "2723": [
-"Escape Pod 2"
 ],
 "2724": [
-"Escape Pod"
 ],
 "2725": [
 "One of the three Nomai escape pods landed somewhere on the Hourglass Twins."
 ],
 "2726": [
-"Nomai Shipwreck"
 ],
 "2727": [
 "Chert saw a Nomai shipwreck shooting a beam of light into the sky somewhere on Ember Twin's southern hemisphere."
@@ -8193,7 +8068,6 @@
 "All three escape pods were launched from something called the Vessel, which was badly damaged."
 ],
 "2730": [
-"High Energy Lab"
 ],
 "2731": [
 "The negative time interval measured at the White Hole Station was further investigated at the High Energy Lab (in the canyon at Ember Twin’s equator)."
@@ -8214,7 +8088,6 @@
 "The Nomai wanted to know if a 22-minute negative time interval was possible. They concluded it would require new technology to produce the necessary energy as well as an advanced warp core to handle those energies. Ash Twin was proposed as a location for the project."
 ],
 "2737": [
-"Ash Twin Tower Designs"
 ],
 "2738": [
 "There are tower designs in the High Energy Lab that reveal each warp receiver's location."
@@ -8232,7 +8105,6 @@
 "The towers allowed the Nomai to quickly travel between Ash Twin and all other locations crucial to the Ash Twin Project."
 ],
 "2743": [
-"The Sunless City"
 ],
 "2744": [
 "The Nomai survivors who crashed on Ember Twin decided to seek shelter in the caves beneath their crashed escape pod."
@@ -8241,7 +8113,6 @@
 "The Nomai discovered a promising long-term shelter site at the end of one of the passages beneath the escape pod."
 ],
 "2746": [
-"Underground Settlement"
 ],
 "2747": [
 "Chert thinks the lack of surface ruins means the Nomai must have lived somewhere underground."
@@ -8262,7 +8133,6 @@
 "The Nomai traveled to this solar system in pursuit of a signal from something older than the universe itself. They named the source of this signal the \"Eye of the universe.\""
 ],
 "2753": [
-"Anglerfish Fossil"
 ],
 "2754": [
 "I found a cave with an anglerfish fossil inside, but the opening is only big enough for my scout."
@@ -8271,7 +8141,6 @@
 "The Nomai learned how to evade anglerfish (theoretically, at least) by studying an anglerfish fossil they found on Ember Twin."
 ],
 "2756": [
-"Fossil Fish Cave"
 ],
 "2757": [
 "Nomai children used to play a game in Fossil Fish Cave. There is a way to enter Fossil Fish Cave from Stepping Stone Cave."
@@ -8289,7 +8158,6 @@
 "The adult Nomai were delighted to see the children incorporate their research into the game's rules."
 ],
 "2762": [
-"Quantum Caves"
 ],
 "2763": [
 "The Nomai detected a quantum signal coming from somewhere on the Hourglass Twins."
@@ -8301,7 +8169,6 @@
 "I found a strange rock shard that moves when I’m not watching. It emits a signal on the Quantum Fluctuations frequency."
 ],
 "2766": [
-"Lakebed Cave"
 ],
 "2767": [
 "The wandering rock was first spotted in a cave at the bottom of the dry lakebed at Ember Twin’s north pole."
@@ -8319,7 +8186,6 @@
 "Coleus and Melorae returned to examine the rock. They theorized that when a conscious being is in contact with a quantum object and ceases to observe his or her surroundings, the being can become entangled with that quantum object, and they both move together."
 ],
 "2772": [
-"Frozen Nomai Shuttle"
 ],
 "2773": [
 "I found a Nomai shuttle almost completely encased in ice."
@@ -8334,10 +8200,8 @@
 "Clary, the Nomai who stayed behind, lost contact with the other two after they descended below the Interloper's surface."
 ],
 "2777": [
-"Ruptured Core"
 ],
 "2778": [
-"Subsurface Energy Readings"
 ],
 "2779": [
 "The shuttle's equipment heard strange energy readings coming from somewhere beneath the surface."
@@ -8358,7 +8222,6 @@
 "One of the Nomai stayed behind to examine the alien matter while the other rushed back to the surface to warn the rest of the Nomai."
 ],
 "2785": [
-"Ocean Depths"
 ],
 "2786": [
 "Gabbro says there’s a strong current beneath the surface of the ocean that prevents anything from sinking below it."
@@ -8376,7 +8239,6 @@
 "I passed through the electric barrier and reached the coral forest at the planet's core."
 ],
 "2791": [
-"Gabbro’s Island"
 ],
 "2792": [
 "Hal says Gabbro went back to Giant’s Deep to try to learn more about the Nomai statue in the observatory."
@@ -8394,7 +8256,6 @@
 "Gabbro and I seem to be the only ones aware that we're in a time loop."
 ],
 "2797": [
-"Construction Yard"
 ],
 "2798": [
 "The Nomai built the Orbital Probe Cannon at a Construction Yard on Giant’s Deep."
@@ -8409,13 +8270,11 @@
 "According to a Nomai computer, a long-range probe was recently launched from the Orbital Probe Cannon."
 ],
 "2802": [
-"Bramble Island"
 ],
 "2803": [
 "An island of thorny vines and what appears to be a frozen jellyfish. It looks like Feldspar camped here before heading off to Dark Bramble."
 ],
 "2804": [
-"Statue Island"
 ],
 "2805": [
 "One of the islands on Giant’s Deep has a Nomai statue on the beach just like the one Gabbro brought back to Timber Hearth."
@@ -8430,7 +8289,6 @@
 "I found a Nomai statue lying on the beach. It looks just like the one in our observatory."
 ],
 "2809": [
-"Statue Workshop"
 ],
 "2810": [
 "I found a sign for a \"Statue Workshop\" next to a broken door that used to lead inside the island."
@@ -8439,7 +8297,6 @@
 "Some Nomai children debated bypassing the Statue Workshop's door and sneaking inside via an alternate (more dangerous) route."
 ],
 "2812": [
-"Island Interior"
 ],
 "2813": [
 "I can see into a large cave from one of the ruins on top of the island. The bottom of the cave is filled with water."
@@ -8454,7 +8311,6 @@
 "The statues were designed to only activate once the Ash Twin Project succeeded, or in the event that it failed."
 ],
 "2817": [
-"Tower of Quantum Trials"
 ],
 "2818": [
 "The Nomai detected a Quantum signal coming from somewhere on Giant’s Deep."
@@ -8472,7 +8328,6 @@
 "\"Remember, the other quantum shards have other lessons to teach.\""
 ],
 "2823": [
-"Quantum Moon"
 ],
 "2824": [
 "The Nomai on Brittle Hollow observed a phantom moon that would sometimes appear in the sky."
@@ -8493,7 +8348,6 @@
 "I found a dead Nomai in a space suit near the south pole."
 ],
 "2830": [
-"Solanum's Shuttle"
 ],
 "2831": [
 "A Nomai named Solanum landed her shuttle at the Quantum Moon's south pole and prepared to make the rest of the journey on foot."
@@ -8502,7 +8356,6 @@
 "Visitors to the Quantum Moon always arrive at the south pole (for reasons unknown to the Nomai)."
 ],
 "2833": [
-"Quantum Shrine"
 ],
 "2834": [
 "The Nomai built a shrine on the Quantum Moon to aid in the pilgrimage to its sixth location."
@@ -8520,7 +8373,6 @@
 "\"Recall the rule of the sixth location\" is inscribed next to a mural of a tower hanging above a black hole."
 ],
 "2839": [
-"Sixth Location"
 ],
 "2840": [
 "The Quantum Moon sometimes disappears, possibly to an unknown sixth location."
@@ -8550,7 +8402,6 @@
 "Solanum has a hypothesis that she may not be entirely alive."
 ],
 "2849": [
-"Sun Station"
 ],
 "2850": [
 "There is a way to safely travel to the Sun Station from Ash Twin."
@@ -8574,7 +8425,6 @@
 "According to a Nomai computer, our sun has reached the end of its natural life cycle."
 ],
 "2857": [
-"Esker’s Camp"
 ],
 "2858": [
 "Sounds like Esker is still stationed on the Attlerock. They’ve been there by themself for a while."
@@ -8583,7 +8433,6 @@
 "Esker is growing a crop of trees at their camp. They seemed to be doing ok, but they’ve probably been alone on the moon for too long."
 ],
 "2860": [
-"Lunar Lookout"
 ],
 "2861": [
 "Esker says the Attlerock’s north pole (marked in red on my minimap) is a great spot to listen for the other travelers’ music with a signalscope."
@@ -8592,10 +8441,8 @@
 "A lookout platform with a spectacular view of the solar system. Esker uses their signalscope here to keep tabs on the other travelers."
 ],
 "2863": [
-"Eye Signal Locator"
 ],
 "2864": [
-"Lunar Ruins"
 ],
 "2865": [
 "I hear there are Nomai ruins somewhere on the Attlerock. No one knows what they are or why they were built."
@@ -8610,7 +8457,6 @@
 "The Nomai were disappointed by their failure to detect a signal from something called the Eye of the universe."
 ],
 "2869": [
-"Ash Twin Towers"
 ],
 "2870": [
 "Several large Nomai towers form a ring around Ash Twin's equator."
@@ -8619,7 +8465,6 @@
 "The White Hole Station was used as a model for these towers, which were built for the Ash Twin Project."
 ],
 "2872": [
-"Ash Twin Project"
 ],
 "2873": [
 "The central chamber inside Ash Twin was physically sealed off by an immensely thick protective shell."
@@ -8649,7 +8494,6 @@
 "There is an advanced warp core inside the protective casing at the center of the planet. Removing the core will disable the Ash Twin Project."
 ],
 "2882": [
-"Volcanic Testing Site"
 ],
 "2883": [
 "Ore samples from the Nomai Mines on Timber Hearth were sent to this volcano for durability testing."
@@ -8661,7 +8505,6 @@
 "Even the smallest crack or opening in the protective shell would destroy everything."
 ],
 "2886": [
-"White Hole Station"
 ],
 "2887": [
 "There is a White Hole Station on the other side of Brittle Hollow's black hole."
