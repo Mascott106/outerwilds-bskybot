@@ -11,19 +11,18 @@ export default async function getPostText() {
   var selectNum;
   var quoteText;
   var confirmedQuoteText;
-  var testBool = false;
+  //var testBool = false;
 
   // selects quote number in bounds and checks if it is less than 301 characters
   while (!gotText) {
     selectNum = getRandomInt(2901);
-
-
 // USED FOR TESTING NONEXISTENT OBJECTS RETURNED    
-    if (lang_en[selectNum]) {
-      quoteText = lang_en[selectNum][0];
-    } else {
-      console.log(`Key ${selectNum} does not exist in quotes database!`)
+// currently haven't deleted any entries, so this shouldn't appear
+    if (!lang_en[selectNum]) {
+      console.log(`Key ${selectNum} does not exist in quotes database! Setting quote to blank...`)
       quoteText = "";
+    } else {
+      quoteText = lang_en[selectNum][0];
     }
 
 // USED FOR TESTING SPECIFIC OBJECTS
@@ -33,19 +32,24 @@ export default async function getPostText() {
       //      quoteText = lang_en[selectNum][0];
       //  }
 
-    quoteText = lang_en[selectNum][0];
-
-    console.log(quoteText);
-
-    console.log("Testing quote: \n \"" + quoteText + "\"")
+    console.log("Testing quote number: " +selectNum + "\n\"" + quoteText + "\"")
 
     if (typeof quoteText == 'string' && quoteText.length < 301 && quoteText.length > 1) {
-      confirmedQuoteText = quoteText      //TODO add quotes around text??? will need to set bounds to 299 just in case
-      gotText = true;
+      console.log("Quote okay! Continuing...");
+      confirmedQuoteText = quoteText;
+      gotText = true; 
+    } else if (quoteText.length < 1) {
+      console.log("Quote too short. Trying again...");
+      //testBool = true;
+    } else if (quoteText.length > 300){
+      console.log("Quote too long. Trying again...");
+      //testBool = false;
+    } else if (typeof quoteText != 'string'){
+      console.log("Quote not a string. Trying again...");
+      //testBool = false;
     } else {
-      console.log(quoteText);
-      console.log("Quote outside of boundaries. Trying again.");
-      // testBool = true;
+      console.log("Quote not okay. Trying again...");
+      //testBool = false;
     }
   }
 
