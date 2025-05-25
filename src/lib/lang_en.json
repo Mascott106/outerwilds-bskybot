@@ -3,7 +3,7 @@
 "How can the Eye be older than the universe itself?"
 ],
 "2": [
-"Suppose it is a relic from a previous universe."
+""
 ],
 "3": [
 "The early universe was unimaginably hot and dense. If anything existed before, it would have been destroyed."
@@ -63,7 +63,7 @@
 "POKE: Hypothesis: This will always feel strange. Even though my time with him was short, I miss my old mentor, and deeply."
 ],
 "22": [
-"POKE: To have the chance to try is thrilling, but... I don’t want to disappoint everyone. I <em>think</em> I can do this (probably), but what if excitement has clouded my assessment of my own abilities?"
+"POKE: To have the chance to try is thrilling, but... I don’t want to disappoint everyone. I think I can do this (probably), but what if excitement has clouded my assessment of my own abilities?"
 ],
 "23": [
 "POKE: Was I wrong in volunteering to build it...? I was born in this star system, and never saw Annona’s warp core with my own three eyes. I only know what he taught me. What if I’ve bitten off a larger portion than I can consume?"
@@ -126,7 +126,7 @@
 "ALERT. Collision imminent. Preparing for impact."
 ],
 "43": [
-"Scanning external environment... Scan complete. Minor structural instabilities detected. Pockets of breathable air detected. Adequate solar energy detected.<br>Verdict: HOSPITABLE."
+"Scanning external environment... Scan complete. Minor structural instabilities detected. Pockets of breathable air detected. Adequate solar energy detected.\nVerdict: HOSPITABLE."
 ],
 "44": [
 "CONOY: Cassava’s Construction Yard has been using the cyclones on Giant’s Deep to lift Orbital Probe Cannon parts into orbit, but one component was pushed down past the current that usually prevents anything from sinking."
@@ -207,13 +207,13 @@
 "BELLS: When you reach the Quantum Moon, recall these Nomai, and carry their curiosity onward with you."
 ],
 "70": [
-"PLUME: The <em>trees</em> are moving! The trees in this grove wander about freely (the entire plant, roots and all)! This is <em>not normal</em>, even for this alien planet. And I never see them move! Is that even possible?!"
+"PLUME: The trees are moving! The trees in this grove wander about freely (the entire plant, roots and all)! This is not normal, even for this alien planet. And I never see them move! Is that even possible?!"
 ],
 "71": [
 "PLUME: If anyone else witnesses this disturbing behavior, I implore you, record your observations here. Either these trees are aberrant, or my brain must be!"
 ],
 "72": [
-"THATCH: Plume is right; the trees <em>do</em> move! I confess I didn’t notice until I read his notes."
+"THATCH: Plume is right; the trees do move! I confess I didn’t notice until I read his notes."
 ],
 "73": [
 "THATCH: Alarmingly, it isn’t only the trees: There is other matter in this area (such as that unusual shard of rock) moving in this same eerie way."
@@ -267,10 +267,10 @@
 "BELLS: If you are preparing to make your first pilgrimage to the Quantum Moon, descend the steps to the entrance below. The knowledge held within will help you on your journey."
 ],
 "90": [
-"Activate the gravity cannon"
+" "
 ],
 "91": [
-"Call the shuttle home"
+" "
 ],
 "92": [
 "LAEVI: We’re meeting in the Fossil Fish Cave to play the game! If you’re too big to climb through the Anglerfish Overlook hole:"
@@ -309,7 +309,7 @@
 "MELORAE: The heat from this star system’s sun is more bearable below the surface."
 ],
 "104": [
-"MELORAE: When our escape pod punctured this planet’s surface, it broke into what scans show is a cave system with much cooler air. I <em>would</em> recommend we seek a site down there to build a long-term shelter, Annona, but these passages are a maze!"
+"MELORAE: When our escape pod punctured this planet’s surface, it broke into what scans show is a cave system with much cooler air. I would recommend we seek a site down there to build a long-term shelter, Annona, but these passages are a maze!"
 ],
 "105": [
 "ANNONA: Even with this danger, they are still our best chance for survival. We’ll form teams and descend into the caves to look for a shelter site. We can mark our findings on the walls to avoid becoming irreversibly lost."
@@ -354,43 +354,33 @@
 "RHUS: And while these rocks are interesting, they can wait until a less urgent time."
 ],
 "119": [
-"SOLANUM: The sands go to and fro,"
+"SOLANUM: The sands go to and fro,\nReversing their swift flow.\nIf you’re inside\nWhen turns the tide,\nThen skyward you should go."
 ],
 "120": [
-"SOLANUM: Reversing their swift flow."
 ],
 "121": [
-"SOLANUM: If you’re inside"
 ],
 "122": [
-"SOLANUM: When turns the tide,"
 ],
 "123": [
-"SOLANUM: Then skyward you should go."
 ],
 "124": [
 "SOLANUM: Who was it when we last quit:"
 ],
 "125": [
-"SOLANUM: Me"
+"SOLANUM: Me \nLAEVI: Me \nILEX: I was\nILEX: Me again\nLAMI: Me!\nSOLANUM: Me\nSOLANUM: Me\n"
 ],
 "126": [
-"LAEVI: Me"
 ],
 "127": [
-"ILEX: I was"
 ],
 "128": [
-"ILEX: Me again"
 ],
 "129": [
-"LAMI: Me!"
 ],
 "130": [
-"SOLANUM: Me"
 ],
 "131": [
-"SOLANUM: Me"
 ],
 "132": [
 "LAMI: Me"
@@ -429,7 +419,7 @@
 "POKE: The spherical stone casing here seems to be the source of the energy readings... No, rather, the source is what’s within the stone. I’m detecting some form of exotic matter."
 ],
 "144": [
-"PYE: The stone is <em>muting</em> our energy readings; they should be ten times what we’re seeing, at least."
+"PYE: The stone is muting our energy readings; they should be ten times what we’re seeing, at least."
 ],
 "145": [
 "POKE: Pye, I don’t think we want this matter interacting with us. As far as I can tell, direct contact with it would almost certainly be fatal."
@@ -438,7 +428,7 @@
 "PYE: I’ve never encountered anything like this casing, but it’s all that’s protecting us from what’s inside. Worse still, this matter is disturbingly volatile."
 ],
 "147": [
-"POKE: ...Pye. Whatever the matter inside this stone casing is, it’s more than just profoundly unstable; it’s under tonnes of pressure. Look at this density scan. I’ve never seen <em>anything</em> this tightly compacted before! What <em>is</em> this?"
+"POKE: ...Pye. Whatever the matter inside this stone casing is, it’s more than just profoundly unstable; it’s under tonnes of pressure. Look at this density scan. I’ve never seen anything this tightly compacted before! What is this?"
 ],
 "148": [
 "PYE: This is orders of magnitude worse than I’d imagined. If this stone were to rupture, the lethal matter within would rapidly expand, completely blanketing this star system almost instantaneously. And the pressure is still building as the comet approaches this star system..."
@@ -450,7 +440,7 @@
 "POKE: What are you doing, Pye?!"
 ],
 "151": [
-"PYE: The more we know about this alien matter, the better our chances of survival. I will learn what I can here. Go, warn the others; maybe they can construct shelter somehow. ...<em>Now</em>, Poke!"
+"PYE: The more we know about this alien matter, the better our chances of survival. I will learn what I can here. Go, warn the others; maybe they can construct shelter somehow. ...Now, Poke!"
 ],
 "152": [
 "CLARY: I fear our situation may be dire:"
@@ -486,31 +476,18 @@
 "PYE: This would be wise, I think, Clary. If you don’t mind waiting here with it, Poke and I can continue to investigate the surface."
 ],
 "163": [
-"Mining site 2b"
 ],
 "164": [
-"ALIGNMENT 1: the sun",
-"?"
 ],
 "165": [
-"ALIGNMENT 2: the Hourglass Twins",
-"?"
 ],
 "166": [
-"ALIGNMENT 3: Timber Hearth",
-"?"
 ],
 "167": [
-"ALIGNMENT 4: Brittle Hollow",
-"?"
 ],
 "168": [
-"ALIGNMENT 5: Giant's Deep",
-"?"
 ],
 "169": [
-"Self",
-"Name"
 ],
 "170": [
 "...Whoa."
@@ -558,7 +535,7 @@
 "Makes sense to me, seeing how jumping into the black hole is definitely what created two of us."
 ],
 "185": [
-"Sure, two of us is great and all, but is it the <em>greatest</em>? What about the day we, you know... what about that one?"
+"Sure, two of us is great and all, but is it the greatest? What about the day we, you know... what about that one?"
 ],
 "186": [
 "Are you talking about the day I...?"
@@ -567,7 +544,7 @@
 "Oh, right. That one's probably still the greatest."
 ],
 "188": [
-"What? No! No, I'm talking about the <em>other</em> one."
+"What? No! No, I'm talking about the other one."
 ],
 "189": [
 "OH. Yep, that makes way more sense."
@@ -705,7 +682,7 @@
 "Hasty segue."
 ],
 "234": [
-"Quickly changing the subject, you know how I - er, <em>we</em> - jumped into the black hole that opened up at the end of the last time loop?"
+"Quickly changing the subject, you know how I - er, we - jumped into the black hole that opened up at the end of the last time loop?"
 ],
 "235": [
 "What do you think would happen if you don't jump in this time?"
@@ -768,7 +745,7 @@
 "That's a good point."
 ],
 "255": [
-"I mean, I <em>feel</em> as real as ever, so I don't think I'm a figment of your imagination or anything like that."
+"I mean, I feel as real as ever, so I don't think I'm a figment of your imagination or anything like that."
 ],
 "256": [
 "That's just what a figment of my imagination would say!"
@@ -786,7 +763,7 @@
 "Thanks. You seem real to me, too, so... I guess there's just two of us now!"
 ],
 "261": [
-"Are you being sassy? You can't sass me! You <em>are</em> me!"
+"Are you being sassy? You can't sass me! You are me!"
 ],
 "262": [
 "Does kind of prove we're the same person, though."
@@ -798,7 +775,7 @@
 "See you around!"
 ],
 "265": [
-"What have we done?! Jumping into that black hole was a <em>terrible</em> idea!"
+"What have we done?! Jumping into that black hole was a terrible idea!"
 ],
 "266": [
 "Yes. Yes, it was."
@@ -825,7 +802,7 @@
 "AAAAAAAAHHHhhhokay, I'm done screaming, too."
 ],
 "274": [
-"AAAAAAAAAAAAAAAHHH! <strong>AAAAAAAAAAAAAAAAAAAHHH!</strong>"
+"AAAAAAAAAAAAAAAHHH! AAAAAAAAAAAAAAAAAAAHHH!"
 ],
 "275": [
 "AAAAAaaaAAAAAaAAaaaaaHHH!"
@@ -834,19 +811,19 @@
 "WAAAAAAAAAAAUUUUUUUUUUGH!"
 ],
 "277": [
-"AAA<strong>AAaaaAA</strong>AAAaAAaaa<strong>aaAAAHHH</strong>!"
+"AAAAAaaaAAAAAaAAaaaaaAAAHHH!"
 ],
 "278": [
-"<em>AAAAAAAAAAAAAAAAAUGHHHH!</em>"
+"AAAAAAAAAAAAAAAAAUGHHHH!"
 ],
 "279": [
 "AAAAAAaaah... hhh... ha."
 ],
 "280": [
-"<strong>WAAAAAAAAAAAAAAAAAUUUUUUUUUUGH!</strong>"
+"WAAAAAAAAAAAAAAAAAUUUUUUUUUUGH!"
 ],
 "281": [
-"<em>WAAAAAAAAAAAAAAURGLHHH!</em>"
+"WAAAAAAAAAAAAAAURGLHHH!"
 ],
 "282": [
 "AAAAAAaaah... hhh... ha."
@@ -876,7 +853,7 @@
 "Remember landing our ship on the Sun Station?"
 ],
 "291": [
-"Yeah! That feels like ages ago.<br><br>We'd have died that first time out if the time loop didn't exist, though. Isn't that weird to think about?"
+"Yeah! That feels like ages ago. \nWe'd have died that first time out if the time loop didn't exist, though. Isn't that weird to think about?"
 ],
 "292": [
 "Weirder than there being two of us now?"
@@ -894,7 +871,7 @@
 "It's unsettling to think about. Especially when you remember even Riebeck survived their first launch."
 ],
 "297": [
-"YES. I can’t believe no one was around to see that.<br><br>We’re probably the best pilot in the space program by now."
+"YES. I can’t believe no one was around to see that. \nWe’re probably the best pilot in the space program by now."
 ],
 "298": [
 "Yeah, but we’ve also died more than anyone else."
@@ -906,7 +883,7 @@
 "I needed to brag about that to someone a little."
 ],
 "301": [
-"Did that technically happen, <em>with</em> how the time loop works?"
+"Did that technically happen, with how the time loop works?"
 ],
 "3673": [
 "That’s true.  I’m not sure how to factor that in."
@@ -978,25 +955,23 @@
 "POKE: Of note: Yarrow believes he spotted a flaw in the warp tower designs: namely, that one of the warp towers on Ash Twin will never activate, because its warp receiver will never align overhead."
 ],
 "325": [
-"POKE: Does your romantic interest think a warp tower’s alignment point is its <em>receiver</em>? Does he not know that a warp tower always aligns with the center of its corresponding astral body?"
+"POKE: Does your romantic interest think a warp tower’s alignment point is its receiver? Does he not know that a warp tower always aligns with the center of its corresponding astral body?"
 ],
 "326": [
-"CLARY: That isn’t an unreasonable belief, given the receiver <em>does</em> have to be located on (or in close orbit around) the relevant astral body."
+"CLARY: That isn’t an unreasonable belief, given the receiver does have to be located on (or in close orbit around) the relevant astral body."
 ],
 "327": [
-"CLARY: I seem to recall that was <em>your</em> understanding of warp technology, at first."
+"CLARY: I seem to recall that was your understanding of warp technology, at first."
 ],
 "328": [
 "CLARY: No, Yarrow understands the distinction. He likely doesn’t realize the Hourglass Twins are so close together they function as a single astral body, with a shared alignment point in between them."
 ],
 "329": [
-"Exit to surface."
 ],
 "330": [
-"Black Hole Forge<br>(north 40m)"
 ],
 "331": [
-"PYE: The Ash Twin Project will be one of our biggest undertakings (metaphorically <em>and</em> physically). To build it, we need a way to travel quickly between Ash Twin and each location that holds crucial project materials."
+"PYE: The Ash Twin Project will be one of our biggest undertakings (metaphorically and physically). To build it, we need a way to travel quickly between Ash Twin and each location that holds crucial project materials."
 ],
 "332": [
 "ROOT: What if we used warp towers (like the one we have on the White Hole Station) to connect Ash Twin directly to each critical location?"
@@ -1020,7 +995,7 @@
 "Retrieving previous launch data from Ash Twin."
 ],
 "339": [
-"Total number of probes launched: NbTimeloops"
+" "
 ],
 "340": [
 "Deep space anomaly matching all known criteria for the Eye of the universe found by probe FirstLoop."
@@ -1044,7 +1019,7 @@
 "POKE: The core’s durability could still be improved! I need more time!"
 ],
 "347": [
-"CLARY: Ignore her, Yarrow. The core is finished. And if my sister tells you otherwise, then <em>she</em> will be finished, as well."
+"CLARY: Ignore her, Yarrow. The core is finished. And if my sister tells you otherwise, then she will be finished, as well."
 ],
 "348": [
 "YARROW: My gratitude for the latest shipment, Oeno! This ore should be the last we’ll need for the Ash Twin Project."
@@ -1071,7 +1046,7 @@
 "COLEUS: I’m relieved by our clan’s decision to use Timber Hearth’s ore only for constructing the shell. If, eventually, life on this planet were to evolve to the point of advanced metallurgy, I’m confident we won’t have destroyed their ability to create!"
 ],
 "356": [
-"CYCAD: If they're sealing off all entrances, I hope they've planned a-<em>core</em>-dingly!"
+"CYCAD: If they're sealing off all entrances, I hope they've planned a-core-dingly!"
 ],
 "357": [
 "OENO: I thought you had forbidden your apprentice from making puns, Coleus."
@@ -1083,10 +1058,8 @@
 "Ash Twin warp network status: All towers online."
 ],
 "360": [
-"Ash Twin warp network status: Sun tower offline as of MinutesSinceRedGiant minutes SecondsSinceRedGiant seconds ago.<br>All other towers online."
 ],
 "361": [
-"Sun tower offline as of MinutesSinceRedGiant minutes SecondsSinceRedGiant seconds ago.<br>All other towers online."
 ],
 "362": [
 "POKE: Welcome to the White Hole Station! If you fell through the black hole by accident (don't worry, you aren’t the first), this warp tower can return you to Brittle Hollow."
@@ -1101,8 +1074,6 @@
 "POKE: If you look up while the station is rotating, you can see the alignment happens when the astral body is directly overhead."
 ],
 "366": [
-"Gabbro",
-"Name"
 ],
 "367": [
 "Nice, it’s you. Good to see you made it here in one piece. The first solo launch is a doozy, isn’t it?"
@@ -1117,7 +1088,7 @@
 "No, it’s me, too. We’re in a time loop."
 ],
 "371": [
-"Time <em>has</em> been behaving unusually lately. Yeah, a time loop makes sense. Cool."
+"Time has been behaving unusually lately. Yeah, a time loop makes sense. Cool."
 ],
 "372": [
 "You’re taking this pretty well."
@@ -1129,7 +1100,7 @@
 "Heh, right back at you."
 ],
 "375": [
-"Personally, I like new experiences, and I’ve never been in a time loop before. I mean, I don’t <em>think</em> I’ve been in a time loop before this one."
+"Personally, I like new experiences, and I’ve never been in a time loop before. I mean, I don’t think I’ve been in a time loop before this one."
 ],
 "376": [
 "I figured it’d be some kind of fidgety time business, but I wasn’t really thinking about what’s happening to the shape of time, you know? But a loop makes sense here. Let’s go with “loop” for now."
@@ -1204,7 +1175,7 @@
 "Here’s something you might like — at the start of every time loop, I keep seeing a bright flash in the sky. Something must be happening up there in orbit around the planet."
 ],
 "400": [
-"What else, what else... Have you been to Statue Island? That’s what I’ve been calling it, seeing as it’s the <em>island</em> where I found the glowing Nomai <em>statue</em>. ...Get it?"
+"What else, what else... Have you been to Statue Island? That’s what I’ve been calling it, seeing as it’s the island where I found the glowing Nomai statue. ...Get it?"
 ],
 "401": [
 "I was on the beach on Statue Island when the whole glowy business happened, by the way. It’s a nice beach for that kind of thing. I give it a solid 7 out of 10 on the Gabbro Relaxation Scale."
@@ -1231,7 +1202,7 @@
 "That’s a good question."
 ],
 "409": [
-"It’s definitely on this planet <em>some</em>where. I mean, unless a cyclone came by and tossed it into space, I guess. Heh, that would be pretty nuts."
+"It’s definitely on this planet somewhere. I mean, unless a cyclone came by and tossed it into space, I guess. Heh, that would be pretty nuts."
 ],
 "410": [
 "I hope it’s not lonely."
@@ -1294,7 +1265,7 @@
 "If you come up with any hunches about what the Nomai wanted to record memories for, feel free to run them by me! You know where I’ll be."
 ],
 "430": [
-"Wait, whoa, really? The Nomai carved out the Ash Twin and built a time loop device inside? ...That is <em>wild</em>."
+"Wait, whoa, really? The Nomai carved out the Ash Twin and built a time loop device inside? ...That is wild."
 ],
 "431": [
 "Now we know what’s causing the loop, then. And... if it’s caused by a device, that must mean it had to be switched on, right? Huh..."
@@ -1402,7 +1373,7 @@
 "Anyway, if you ever want to visit Ol’ Spacey, fastest way is to jump into your ship and use your solar system map to lock on to the satellite, same as you would any astral body."
 ],
 "466": [
-"I mean, the satellite’s not <em>super</em> old, but it’s hardly brand-new. “Ol’” is more a term of affection. ...You’re being very literal-minded about this."
+"I mean, the satellite’s not super old, but it’s hardly brand-new. “Ol’” is more a term of affection. ...You’re being very literal-minded about this."
 ],
 "467": [
 "Ol’ Spacey likes visitors, you know! Fastest way to find it is to jump into your ship and use your solar system map to lock on to our faithful satellite friend, same as you would any astral body."
@@ -1420,7 +1391,7 @@
 "No worries. Feel free to let me know when you do find something cool, though. You know where to find me."
 ],
 "472": [
-"I was hoping you’d be back - something <em>really</em> weird is going on."
+"I was hoping you’d be back - something really weird is going on."
 ],
 "473": [
 "Do you think we’re in a time loop?"
@@ -1444,7 +1415,7 @@
 "Heh, right back at you. Personally, I like new experiences, and I’ve never been in a time loop before."
 ],
 "480": [
-"Well. I don’t <em>think</em> I’ve been in a time loop before this one, but then, it’s not like I can know that for sure."
+"Well. I don’t think I’ve been in a time loop before this one, but then, it’s not like I can know that for sure."
 ],
 "481": [
 "I figured it’d be some kind of fidgety time business, but I wasn’t really thinking about what’s happening to the shape of time, you know? But a loop makes sense here. Let’s go with “loop” for now."
@@ -1483,7 +1454,7 @@
 "Here’s something you might like — at the start of every time loop, I keep seeing a bright flash in the sky. Something must be happening up there in orbit around the planet."
 ],
 "493": [
-"What else, what else... Have you been to Statue Island? That’s what I’ve been calling it, seeing as it’s the <em>island</em> where I found the glowing Nomai <em>statue</em>. ...Get it?"
+"What else, what else... Have you been to Statue Island? That’s what I’ve been calling it, seeing as it’s the island where I found the glowing Nomai statue. ...Get it?"
 ],
 "494": [
 "I was on the beach on Statue Island when the whole glowy business happened, by the way. It’s a nice beach for that kind of thing. I give it a solid 7 out of 10 on the Gabbro Relaxation Scale."
@@ -1513,7 +1484,7 @@
 "Do you think the statues are recording our memories, then? ’Cause I remember that one on the beach looked at me funny. That must be my memory-friend!"
 ],
 "503": [
-"Wait, whoa, really? The Nomai carved out Ash Twin and built a time loop device inside? ...That is <em>wild</em>."
+"Wait, whoa, really? The Nomai carved out Ash Twin and built a time loop device inside? ...That is wild."
 ],
 "504": [
 "Now we know what’s causing the loop, then. And... if it’s caused by a device, that must mean it had to be switched on, right? Huh..."
@@ -1630,7 +1601,7 @@
 "Here’s something you might like — at the start of every time loop, I keep seeing a bright flash in the sky. Something must be happening up there in orbit around the planet."
 ],
 "542": [
-"What else, what else... Have you been to Statue Island? That’s what I’ve been calling it, seeing as it’s the <em>island</em> where I found the glowing Nomai <em>statue</em>. ...Get it?"
+"What else, what else... Have you been to Statue Island? That’s what I’ve been calling it, seeing as it’s the island where I found the glowing Nomai statue. ...Get it?"
 ],
 "543": [
 "I was on the beach on Statue Island when the whole glowy business happened, by the way. It’s a nice beach for that kind of thing. I give it a solid 7 out of 10 on the Gabbro Relaxation Scale."
@@ -1660,7 +1631,7 @@
 "Do you think the statues are recording our memories, then? ’Cause I remember that one on the beach looked at me funny. That must be my memory-friend!"
 ],
 "552": [
-"Wait, whoa, really? The Nomai carved out Ash Twin and built a time loop device inside? ...That is <em>wild</em>."
+"Wait, whoa, really? The Nomai carved out Ash Twin and built a time loop device inside? ...That is wild."
 ],
 "553": [
 "Now we know what’s causing the loop, then. And... if it’s caused by a device, that must mean it had to be switched on, right? Huh..."
@@ -1747,7 +1718,7 @@
 "While we hope to repair the radio tower in the future, all construction efforts are currently focused on the planned museum expansion at the Observatory."
 ],
 "581": [
-"Sincerest apologies, except to Slate and Mica,<br><br>Hornfels (museum curator)"
+"Sincerest apologies, except to Slate and Mica, \nHornfels (museum curator)"
 ],
 "582": [
 "The radio tower here on Timber Hearth was built to receive transmissions from our deep space satellite, and to this day still houses the first-ever photos taken of the entire solar system."
@@ -1771,8 +1742,6 @@
 "Our quest to explore the furthest reaches of our solar system wouldn’t be possible without generous visitors like you! We thank you profusely for your support, and we hope to see you again soon."
 ],
 "589": [
-"Slate",
-"Name"
 ],
 "590": [
 "There’s our pilot! Back from your pre-launch campout under the stars, I see."
@@ -1790,7 +1759,7 @@
 "I’m ready if you are."
 ],
 "595": [
-"You’re <em>sure</em> you fixed the retro rockets?"
+"You’re sure you fixed the retro rockets?"
 ],
 "596": [
 "Hey, you ready to get this thing off the ground? Ship’s all fueled and ready to go."
@@ -1805,7 +1774,7 @@
 "I’m ready if you are."
 ],
 "600": [
-"You’re <em>sure</em> you fixed the retro rockets?"
+"You’re sure you fixed the retro rockets?"
 ],
 "601": [
 "Whoa, bad dream or something? You still look half asleep, but that’s a negative on being deceased."
@@ -1859,7 +1828,7 @@
 "If you have any goodbyes to say, better say ’em now. I think your friend Hal is in the observatory waiting to see you off."
 ],
 "618": [
-"Oh, and Gossan says they have the zero-g chamber set up if you want a refresher on making ship repairs in space. Not saying you <em>have</em> to, but uh, it’d help get Gossan off my back if you did."
+"Oh, and Gossan says they have the zero-g chamber set up if you want a refresher on making ship repairs in space. Not saying you have to, but uh, it’d help get Gossan off my back if you did."
 ],
 "619": [
 "Hornfels has the launch codes. Should be up at the observatory, like usual. I’m starting to think they live there."
@@ -1874,13 +1843,13 @@
 "Is that... safe?"
 ],
 "623": [
-"Well, it’s all very conceptual, but basically, it’s like taking a regular second-stage booster and strapping a bigger rocket onto it.<br>Isn’t that <em>great</em>?"
+"Well, it’s all very conceptual, but basically, it’s like taking a regular second-stage booster and strapping a bigger rocket onto it.\nIsn’t that great?"
 ],
 "624": [
 "Probably!"
 ],
 "625": [
-"Oh, it’s a perfect ten. Unless you’re factoring in pilot error, in which case it’s about a four.<br>No offense."
+"Oh, it’s a perfect ten. Unless you’re factoring in pilot error, in which case it’s about a four. \nNo offense."
 ],
 "626": [
 "Oh, hold up, you’re going to want to get the launch codes from the observatory first."
@@ -1892,10 +1861,10 @@
 "How did I get back here? Didn’t I already lift off?"
 ],
 "629": [
-"Wait, did I just <em>die</em>, or...?"
+"Wait, did I just die, or...?"
 ],
 "630": [
-"Huh. Must be inhaling more fumes than I realized. That stuff is <em>potent</em>."
+"Huh. Must be inhaling more fumes than I realized. That stuff is potent."
 ],
 "631": [
 "Well, if you’ve got the codes, I’m not gonna stop you. Good luck, and take care of that ship!"
@@ -1907,13 +1876,13 @@
 "I won’t ask how you got the launch codes, but since you have ’em, get a move on! I want to see whether the new cockpit stays attached during liftoff."
 ],
 "634": [
-"Uh, <em>no</em>...? You have a bad dream or something?"
+"Uh, no...? You have a bad dream or something?"
 ],
 "635": [
 "I won’t ask how you got the codes, so hurry up and launch before Hornfels decides to ground you for medical reasons.  I want to see whether the new cockpit stays attached during liftoff."
 ],
 "636": [
-"Looks like you’re ready for takeoff! The excitement of a launch is fun and all, but I can’t wait to get back to working on the new ship.<br>We’re working on fixing the autopilot’s avoidance system for this one!"
+"Looks like you’re ready for takeoff! The excitement of a launch is fun and all, but I can’t wait to get back to working on the new ship. \nWe’re working on fixing the autopilot’s avoidance system for this one!"
 ],
 "637": [
 "...Uh, sorry."
@@ -1943,7 +1912,7 @@
 "Did you know it’s just an endless void outside our solar system?"
 ],
 "646": [
-"Well yeah, it’s a death-trap, but a really <em>powerful</em> death trap. What, you suddenly care about safety <em>now</em>?"
+"Well yeah, it’s a death-trap, but a really powerful death trap. What, you suddenly care about safety now?"
 ],
 "647": [
 "And you’re lucky I don’t have you grounded for medical reasons, because I have no idea what you’re talking about."
@@ -1952,7 +1921,7 @@
 "Had an exciting dream, did you?"
 ],
 "649": [
-"It’s not exactly <em>impossible</em> for the autopilot to get you too close to the sun, but it’s not like it’ll try to take you there on purpose."
+"It’s not exactly impossible for the autopilot to get you too close to the sun, but it’s not like it’ll try to take you there on purpose."
 ],
 "650": [
 "Make sure the sun isn’t between you and your destination when you engage autopilot, and you’ll be fine."
@@ -1961,7 +1930,7 @@
 "Not if you use your scout to detect it, you won’t, you dumb idiot! Did you think I made that just so you could take pretty little pictures of trees? It has multiple uses!"
 ],
 "652": [
-"You <em>do</em> know you can use it as a light source, right? Stars above, please tell me you knew that."
+"You do know you can use it as a light source, right? Stars above, please tell me you knew that."
 ],
 "653": [
 "Oh yeah, the observatory has an exhibit about that."
@@ -2048,8 +2017,6 @@
 "ERROR: Unable to determine orbit. No signal detected matching any known criteria for the Eye of the universe."
 ],
 "681": [
-"Feldspar",
-"Name"
 ],
 "682": [
 "Whoa!"
@@ -2082,7 +2049,7 @@
 "Wait, what?"
 ],
 "692": [
-"You <em>crashed</em>? But you’re the greatest pilot in Hearthian history!"
+"You crashed? But you’re the greatest pilot in Hearthian history!"
 ],
 "693": [
 "I haven’t lived in polite society for a while, so I’m just going to go ahead and assume that wasn’t sarcasm."
@@ -2109,10 +2076,10 @@
 "You crashed your ship, didn’t you."
 ],
 "701": [
-"Haha, you flatter me! ...I <em>like</em> it!"
+"Haha, you flatter me! ...I like it!"
 ],
 "702": [
-"<em>Obviously</em>, yes. No need to be rude."
+"Obviously, yes. No need to be rude."
 ],
 "703": [
 "...well, like I said, I crash. Blammo! On impact, my ship starts making noises like it’s coming apart from the inside, and I think, well, that ain’t great. Sure enough, I barely get out of there before the electrical systems start sparking like crazy."
@@ -2157,7 +2124,7 @@
 "I pull a few stunts, try to shake the thing off — nothing too fancy. I’m going full-speed when the fish clips me, knocks me into a vine, and..."
 ],
 "717": [
-"Haha, you flatter me! ...I <em>like</em> it!"
+"Haha, you flatter me! ...I like it!"
 ],
 "718": [
 "I came to Dark Bramble for the excitement. I’d just finished exploring the core of Giant’s Deep and needed a new challenge, and none of us had ever gone farther than Dark Bramble’s ice fields, so I thought, hey, let’s give it a try."
@@ -2271,7 +2238,7 @@
 "Hm..."
 ],
 "755": [
-"...On a <em>completely unrelated</em> note, that sure was a big, hollow vine my ship crashed into. Yep."
+"...On a completely unrelated note, that sure was a big, hollow vine my ship crashed into. Yep."
 ],
 "756": [
 "If I were you, I’d go take a walk and see where it ends."
@@ -2304,7 +2271,7 @@
 "Your scout tracker will tell you the scout is in two places at once, but I don’t think that’s... wrong, exactly, because space doesn’t work right in here. That seed looks small, see? But inside, it’s bigger."
 ],
 "766": [
-"<em>Much</em> bigger."
+"Much bigger."
 ],
 "767": [
 "I’ve had a lot of time to think about this, and my theory is space in Dark Bramble kind of expands as you go through each sphere. That’s why it’s bigger inside those seeds."
@@ -2385,10 +2352,10 @@
 "This infernal plant appeared at the center and kept growing, and growing, and growing, until it shattered the planet and scattered its pieces across space."
 ],
 "793": [
-"If we don’t get that seed you found sorted real quicklike, I suspect Timber Hearth will be heading toward the same fate. And I tell you what, we Hearthians have overcome far too much to be done in by some worthless <em>seed</em>."
+"If we don’t get that seed you found sorted real quicklike, I suspect Timber Hearth will be heading toward the same fate. And I tell you what, we Hearthians have overcome far too much to be done in by some worthless seed."
 ],
 "794": [
-"A-<em>ha</em>! So the blasted things <em>do</em> have a weakness!"
+"A-ha! So the blasted things do have a weakness!"
 ],
 "795": [
 "Meaning my fly-as-fast-as-I-can approach to dealing with them could have used a bit more thought behind it."
@@ -2403,7 +2370,7 @@
 "Can’t say I’d mind having a go at that myself, hatchling. Once I return to Timber Hearth, maybe that’ll have to be my next stop."
 ],
 "799": [
-"A brand-new astronaut, and you’re already a pro adventurer! Outer Wilds Ventures is in good hands with you, I can tell. The flight program is <em>going</em> places!"
+"A brand-new astronaut, and you’re already a pro adventurer! Outer Wilds Ventures is in good hands with you, I can tell. The flight program is going places!"
 ],
 "800": [
 "Nothing you want to share with me? Sounds like you’d better get out there and start exploring!"
@@ -2417,7 +2384,7 @@
 "Journal"
 ],
 "803": [
-"GABBRO’S 3 FOOLPROOF STEPS FOR DOZING OFF<br>1.     Light a nice, cozy campfire and get comfortable.<br>2.     Gaze deeply into the serene warmth.<br>3.     Let time begin to slip away as you allow the flames to lull you into a peaceful slumber.",
+"GABBRO’S 3 FOOLPROOF STEPS FOR DOZING OFF \n1. Light a nice, cozy campfire and get comfortable. \n2. Gaze deeply into the serene warmth. \n3. Let time begin to slip away as you allow the flames to lull you into a peaceful slumber.",
 "Journal"
 ],
 "804": [
@@ -2445,7 +2412,7 @@
 "Recording"
 ],
 "810": [
-"Hold on. What is <em>that</em>?",
+"Hold on. What is that?",
 "Recording"
 ],
 "811": [
@@ -2457,8 +2424,6 @@
 "Recording"
 ],
 "813": [
-"the Prisoner",
-"Name"
 ],
 "814": [
 "This fire… what a warm and beautiful light it makes."
@@ -2551,7 +2516,7 @@
 "One individual, however, rebelled against the decision, and was able to briefly release the Eye’s signal back into space before being caught and imprisoned in solitude for this betrayal."
 ],
 "844": [
-"CASSAVA: Conoy, Daz and I were lifting Orbital Probe Cannon components into orbit for assembly, and one somehow sank down down <em>beneath</em> the current."
+"CASSAVA: Conoy, Daz and I were lifting Orbital Probe Cannon components into orbit for assembly, and one somehow sank down down beneath the current."
 ],
 "845": [
 "DAZ: Cassava convinced me not to try to recreate the phenomenon myself using other cannon parts, but we’re very curious to know what happened! How could something pass through the current?"
@@ -2590,17 +2555,15 @@
 "THATCH: Then we will build it. Don’t lose hope, Cassava; our search for the Eye is what brought our clan to this place. We won’t give up so easily!"
 ],
 "857": [
-"Hal",
-"Name"
 ],
 "858": [
 "Hey, hey, it’s my favorite astronaut! Launch day at last, huh, buddy? It’s the translator tool’s inaugural flight, too! I’m so excited it’s making me nauseous."
 ],
 "859": [
-"Just think - you’ll be able to translate any Nomai text you want, anywhere you are. The two of us put a lot of hours into inventing that tool, so don’t break it, okay? Haha! ...Oh, geez. <em>Do not break it.</em>"
+"Just think - you’ll be able to translate any Nomai text you want, anywhere you are. The two of us put a lot of hours into inventing that tool, so don’t break it, okay? Haha! ...Oh, geez. Do not break it."
 ],
 "860": [
-"...Ugh, ignore me, okay? I’m just nervous. And I’m not even the one going into space! How are <em>you</em> feeling?"
+"...Ugh, ignore me, okay? I’m just nervous. And I’m not even the one going into space! How are you feeling?"
 ],
 "861": [
 "I’m excited!"
@@ -2636,7 +2599,7 @@
 "Yeah, I get that you’re dying to head out into space, but seriously, you’ve got to see this statue before you go. It’s an amazing find!"
 ],
 "872": [
-"Makes me wish we could see what a real live Nomai looks like, but I guess this is as close as we’ll ever get. Check it out - looks like they had fur! Fur is <em>weird</em>."
+"Makes me wish we could see what a real live Nomai looks like, but I guess this is as close as we’ll ever get. Check it out - looks like they had fur! Fur is weird."
 ],
 "873": [
 "This is the first fully intact statue ever found, you know. And for how old it is, it’s in great shape!"
@@ -2651,7 +2614,7 @@
 "They, uh, used to be closed. Probably should’ve started with that. And now they’ve opened!"
 ],
 "877": [
-"We’re not sure <em>why</em> they opened, since no one actually saw it happen, but this is huge news!"
+"We’re not sure why they opened, since no one actually saw it happen, but this is huge news!"
 ],
 "878": [
 "Should someone tell Gabbro? Or maybe Riebeck? Oh, stars, this is so exciting, it’s making my stomach hurt!"
@@ -2717,7 +2680,7 @@
 "From Giant’s Deep! Gabbro fished it out of the oceans and brought it back here for study."
 ],
 "899": [
-"Hornfels doesn’t know much about it yet, just that it’s <em>crazy</em> old and super tough. I wonder why the Nomai carved it?"
+"Hornfels doesn’t know much about it yet, just that it’s crazy old and super tough. I wonder why the Nomai carved it?"
 ],
 "900": [
 "Apparently, Gabbro went back to Giant’s Deep to try to learn more about the statue. Maybe they’ll find some answers there."
@@ -2813,7 +2776,7 @@
 "PYE: Poke, I’m deeply honored. Idaea, I comprehend your position; however, if we aren’t all but certain the Sun Station will not cause destruction once we’ve built it, then I won’t support the station’s use."
 ],
 "931": [
-"RAMIE: Note: This door will need to remain closed for some <em>time</em>! Pye and I are running an experiment based on the extraordinary findings from the White Hole Station."
+"RAMIE: Note: This door will need to remain closed for some time! Pye and I are running an experiment based on the extraordinary findings from the White Hole Station."
 ],
 "932": [
 "PYE: Ramie and I will be running this experiment until one of us (specifically, me) can prove the other wrong, so although it’s inconvenient, the lab currently can only be accessed by the path from the Sunless City."
@@ -2840,7 +2803,7 @@
 "PYE: We would also likely need an enormous space to fit these proposed new energy and warp technologies together. The only location large enough would be Ash Twin."
 ],
 "940": [
-"RAMIE: The energy is <em>currently</em> unavailable, you say? You’re a gas, Pye!"
+"RAMIE: The energy is currently unavailable, you say? You’re a gas, Pye!"
 ],
 "941": [
 "PYE: My pun was unintended, Ramie, so I believe it’s you who’s aeriform!"
@@ -2873,10 +2836,10 @@
 "PYE: All available energy has been rerouted from the city to our experiment. Ramie and I are about to run a new test."
 ],
 "951": [
-"RAMIE: Hypothesis confirmed! Hypothesis confirmed! I saw it! Pye saw it! <em>Hypothesis confirmed</em>!"
+"RAMIE: Hypothesis confirmed! Hypothesis confirmed! I saw it! Pye saw it! Hypothesis confirmed!"
 ],
 "952": [
-"PYE: This is beyond extraordinary! This changes <em>everything</em>! What a beautiful day for the intersection of abstract theory and practical application!"
+"PYE: This is beyond extraordinary! This changes everything! What a beautiful day for the intersection of abstract theory and practical application!"
 ],
 "953": [
 "SECCA: Our escape pod crashed as we tried to flee this place, destroying our movement and communication capabilities in the process."
@@ -2912,7 +2875,7 @@
 "CANNA: Has anyone heard from Neem? His clan was on its way to our Vessel, but they never arrived, and he hasn’t sent any messages. I’m beginning to worry."
 ],
 "964": [
-"BROMI: That <em>is</em> unsettling. It reminds me of that old myth my grandfather used to tell, the Disappearance of Escall."
+"BROMI: That is unsettling. It reminds me of that old myth my grandfather used to tell, the Disappearance of Escall."
 ],
 "965": [
 "CLEM: I remember hearing that story as a child! One day, Escall’s Vessel simply stopped responding. The other clans searched and searched, but found no trace. It was as if their missing friends had warped out of existence."
@@ -2942,7 +2905,7 @@
 "FILIX: This is Escall’s Vessel; something went badly wrong during our warp, and our Vessel is mortally wounded. We need help as quickly as possible!"
 ],
 "974": [
-"FILIX: Our Vessel appears to have... has it <em>fused</em> with the local environment, somehow? There are vines that are now part of the Vessel! It’s been torn apart from inside itself!"
+"FILIX: Our Vessel appears to have... has it fused with the local environment, somehow? There are vines that are now part of the Vessel! It’s been torn apart from inside itself!"
 ],
 "975": [
 "FILIX: We... we are abandoning our Vessel. Any Nomai clans or spaceflight-capable species receiving this message, I implore you, we need your help!"
@@ -2951,7 +2914,7 @@
 "FILIX: Is this broken? Can anyone hear me? Our Vessel is dying! We need immediate assistance!"
 ],
 "977": [
-"FILIX: I’m recording now — I’ve never encountered anything like this! The signal the Vessel is receiving appears to be <em>older than the universe itself</em>!"
+"FILIX: I’m recording now — I’ve never encountered anything like this! The signal the Vessel is receiving appears to be older than the universe itself!"
 ],
 "978": [
 "ESCALL: This is our first contact with anything of this nature. Everyone, prepare to warp immediately!"
@@ -2984,7 +2947,7 @@
 "DAZ: Are you going gelatinous on us, love? I’m delighted by your words, but they’re atypical for you!"
 ],
 "988": [
-"CASSAVA: If I’m ever half as gooey as Mallow and Avens behave together, Daz, you may launch <em>me</em> from the Orbital Probe Cannon."
+"CASSAVA: If I’m ever half as gooey as Mallow and Avens behave together, Daz, you may launch me from the Orbital Probe Cannon."
 ],
 "989": [
 "CASSAVA: Our next step will be to send Privet up to the Orbital Probe Cannon to install the probe tracking system."
@@ -3014,10 +2977,10 @@
 "LAMI: They’re going to test the memory statues tonight! Phlox says it could be dangerous, so we can’t come."
 ],
 "998": [
-"LAMI: <em>But</em>, what if we didn’t use the door and snuck in the <em>other</em> way? Does anyone want to?"
+"LAMI: But, what if we didn’t use the door and snuck in the other way? Does anyone want to?"
 ],
 "999": [
-"TAGET: Phlox <em>specifically</em> told us not to do that."
+"TAGET: Phlox specifically told us not to do that."
 ],
 "1000": [
 "LAEVI: I really want to see the test, too, Lami, but that’s a huge risk to take. We probably shouldn’t. Maybe Phlox’ll let us see a later test."
@@ -3422,7 +3385,7 @@
 "PLUME: My brother wasn’t in Escape Pod 1 with us. Was he in Pod 2, or Pod 3? Was he able to board an escape pod at all?"
 ],
 "1134": [
-"PLUME: We sacrificed too much arriving here. I cannot (<em>I will</em> not) allow our clan’s greatest loss to be in vain."
+"PLUME: We sacrificed too much arriving here. I cannot (I will not) allow our clan’s greatest loss to be in vain."
 ],
 "1135": [
 "THATCH: Is the hardest part of this tragedy not knowing who we may have lost? Or will the hardest part come later, when we learn? (Be well, Aunt Melorae...)"
@@ -3464,7 +3427,7 @@
 "PLUME: I’m interested in your playful moon. Is it much like its violent friend (Hollow’s Lantern)?"
 ],
 "1148": [
-"THATCH: Imagine if there were <em>two</em> volcanic moons."
+"THATCH: Imagine if there were two volcanic moons."
 ],
 "1149": [
 "PLUME: Then I imagine there’d be none of us left!"
@@ -3548,16 +3511,12 @@
 "SOLANUM: What if the Eye isn’t something good?"
 ],
 "1176": [
-"1: High Energy Lab Trailhead"
 ],
 "1177": [
-"2: Stepping Stone District"
 ],
 "1178": [
-"3: Anglerfish Overlook District"
 ],
 "1179": [
-"4: Eye Shrine District"
 ],
 "1180": [
 "ANNONA: We need status reports for all systems, but initial things first: Is everyone unharmed?"
@@ -3578,7 +3537,7 @@
 "Launching Escape Pod 3... Now launching Escape Pod 2."
 ],
 "1186": [
-"Scanning external environment... Scan complete. External temperature is prohibitively high.<br>Verdict: INHOSPITABLE. Do not seek shelter on planet surface."
+"Scanning external environment... Scan complete. External temperature is prohibitively high. \nVerdict: INHOSPITABLE. Do not seek shelter on planet surface."
 ],
 "1187": [
 "MELORAE: This is amazing (look inside the cave)! How did this come to rest here? We haven’t encountered others in these caves; I think this is a rare find."
@@ -3629,7 +3588,7 @@
 "LAEVI: Whoever was it when we ended last time is the anglerfish."
 ],
 "1203": [
-"LAEVI: <em>Rule change</em>! The anglerfish now has to wear a blindfold. (And do <em>not</em> peek!)"
+"LAEVI: Rule change! The anglerfish now has to wear a blindfold. (And do not peek!)"
 ],
 "1204": [
 "LAEVI: The rest of us (the littlefish) line up against one wall. When the anglerfish says go, the littlefish sneak across to the other side."
@@ -3650,7 +3609,7 @@
 "ILEX: Rule update: It’s okay if younger kids don’t wear the blindfold when they’re it. (The rest of us will still wear it for scientific accuracy and to make the game more even.)"
 ],
 "1210": [
-"MELORAE: This planet sometimes (and only sometimes) has a moon! This is also of note: It disappears if no one is watching it! Isn’t that a <em>fascinating</em> orbital characteristic?"
+"MELORAE: This planet sometimes (and only sometimes) has a moon! This is also of note: It disappears if no one is watching it! Isn’t that a fascinating orbital characteristic?"
 ],
 "1211": [
 "BUR: I found your note, Melorae; kindly count me among this moon’s admirers! What is happening when it disappears (I doubt it ceases to exist)? Does it move to another location?"
@@ -3686,7 +3645,7 @@
 "COLEUS: Melorae is here now, too. We theorize when a conscious being is in contact with a quantum object and ceases to act as an observer (explaining the need for darkness), the being can become entangled with that quantum object, and they move together."
 ],
 "1222": [
-"MELORAE: Friends, Coleus has discovered a new quantum rule! (He has also promised me he’ll never vanish again, even if he <em>does</em> learn something useful from it!)"
+"MELORAE: Friends, Coleus has discovered a new quantum rule! (He has also promised me he’ll never vanish again, even if he does learn something useful from it!)"
 ],
 "1223": [
 "Melorae: Coleus is missing! He vanished from the Lakebed Cave (the one at the bottom of the dry lakebed at the north pole) several days ago, and we’re unable to find any trace of him. I don’t know how much air he had when he disappeared. I beg any friend reading this, help us recover Coleus!"
@@ -3836,7 +3795,7 @@
 "SOLANUM: I’m at the shuttle! I’m ready to make my first pilgrimage to the Quantum Moon."
 ],
 "1272": [
-"BELLS: That’s exciting! You’re <em>almost</em> ready, but there’s still one more rule you need to learn. Come see me at the Tower of Quantum Knowledge."
+"BELLS: That’s exciting! You’re almost ready, but there’s still one more rule you need to learn. Come see me at the Tower of Quantum Knowledge."
 ],
 "1273": [
 "BELLS: The tower is on the opposite side of Brittle Hollow. If you follow the path west to the Crossroads, you can reach the tower from there."
@@ -3917,7 +3876,7 @@
 "PYE: It fired, Yarrow. But it failed. The sun barely responded; there were infintestimally small surface-level changes, but they were barely visible, even to the third eye."
 ],
 "1299": [
-"PYE: The Sun Station is useless. It will never, and <em>could</em> never, cause the sun to explode."
+"PYE: The Sun Station is useless. It will never, and could never, cause the sun to explode."
 ],
 "1300": [
 "PYE: I don’t know what comes next, my friends. I suppose we must start over, but I’m unsure how to start over."
@@ -3935,7 +3894,6 @@
 "Star has reached end of natural life cycle. Now approaching red giant stage. WARNING: Evacuate Sun Station."
 ],
 "1305": [
-"Approximate time until Sun Station is destroyed by expanding star: RemainingMinutes MINUTES, RemainingSeconds SECONDS<br>Approximate time until star’s death: MinutesToRedGiant MINUTES, SecondsToRedGiant SECONDS"
 ],
 "1306": [
 "YARROW: Phlox and Daz finished the memory statues today, and they are truly remarkable."
@@ -3959,7 +3917,7 @@
 "CLARY: I recommend you do! The White Hole Station is the model for the towers being built for the Ash Twin Project, so a visit to the station would be doubly useful."
 ],
 "1313": [
-"YARROW: I suppose, more precisely, I would like to visit the White Hole Station with <em>you</em>, Clary."
+"YARROW: I suppose, more precisely, I would like to visit the White Hole Station with you, Clary."
 ],
 "1314": [
 "CLARY: I’d be happy to explain our findings!"
@@ -3986,7 +3944,7 @@
 "POKE: (Don’t tell Cassava.)"
 ],
 "1322": [
-"PYE: Ramie and I reviewed the records you sent, Poke, and they appear to show Nomai are arriving at the warp receiver on Brittle Hollow slightly <em>before</em> departing from the White Hole Station."
+"PYE: Ramie and I reviewed the records you sent, Poke, and they appear to show Nomai are arriving at the warp receiver on Brittle Hollow slightly before departing from the White Hole Station."
 ],
 "1323": [
 "POKE: I understand it’s exceedingly odd, but Clary and I have tested and retested the equipment, and the result is the same every time someone warps."
@@ -3998,7 +3956,7 @@
 "PYE: As I’ve already told Ramie, these measurements can’t be accurate. How can a Nomai arrive on Brittle Hollow before he or she ever stepped into the teleporter? The implications are absurd."
 ],
 "1326": [
-"POKE: I don’t disagree. It <em>would</em> mean I’ve inadvertently broken several fundamental theories regarding this universe. We would have to reconsider all of our beliefs about the nature of time."
+"POKE: I don’t disagree. It would mean I’ve inadvertently broken several fundamental theories regarding this universe. We would have to reconsider all of our beliefs about the nature of time."
 ],
 "1327": [
 "RAMIE: Yes, I hope so, too!"
@@ -4007,7 +3965,7 @@
 "RAMIE: Poke, as Pye is confident the reading is inaccurate, she’s kindly helping me attempt to recreate this phenomenon at the High Energy Lab. We’re designing an experiment to take more data."
 ],
 "1329": [
-"PYE: An update: Poke, the High Energy Lab is in the canyon on Ember Twin’s equator. <em>Come here at once</em>. You need to see this."
+"PYE: An update: Poke, the High Energy Lab is in the canyon on Ember Twin’s equator. Come here at once. You need to see this."
 ],
 "1330": [
 "Chert’s Research Notes — property of Chert!"
@@ -4051,7 +4009,7 @@
 "Log"
 ],
 "1343": [
-"Day 51: Listened to Chert play for a while today. Unrelated, someone should tell Porphy and Gossan their flirting is <em>not</em> subtle from an aerial perspective.",
+"Day 51: Listened to Chert play for a while today. Unrelated, someone should tell Porphy and Gossan their flirting is not subtle from an aerial perspective.",
 "Log"
 ],
 "1344": [
@@ -4067,11 +4025,11 @@
 "Log"
 ],
 "1347": [
-"Day 76: Okay, I <em>know</em> this is crazy, but the sound from Timber Hearth sounds exactly like Feldspar’s harmonica. But Feldspar disappeared in space ages ago. It can’t be them...",
+"Day 76: Okay, I know this is crazy, but the sound from Timber Hearth sounds exactly like Feldspar’s harmonica. But Feldspar disappeared in space ages ago. It can’t be them...",
 "Log"
 ],
 "1348": [
-"Day 88: It’s <em>still here</em>. This is creepy. Maybe my signalscope is broken? I’d better talk to Gneiss.",
+"Day 88: It’s still here. This is creepy. Maybe my signalscope is broken? I’d better talk to Gneiss.",
 "Log"
 ],
 "1349": [
@@ -4083,7 +4041,7 @@
 "Note"
 ],
 "1351": [
-"I checked with my Little Scout — I do <em>too</em> use it, Hornfels, ya burnt marshmallow — and the scout’s integrity reading said this piece of Brittle Hollow is as stable as any, but who knows.",
+"I checked with my Little Scout — I do too use it, Hornfels, ya burnt marshmallow — and the scout’s integrity reading said this piece of Brittle Hollow is as stable as any, but who knows.",
 "Note"
 ],
 "1352": [
@@ -4091,11 +4049,11 @@
 "Note"
 ],
 "1353": [
-"Trip 4, entry # whatever<br>Crashes: 2<br>Boring crashes: 0 (remember to see Slate when I get back)",
+"Trip 4, entry # whatever \nCrashes: 2 \nBoring crashes: 0 (remember to see Slate when I get back)",
 "Journal"
 ],
 "1354": [
-"Ha <em>ha</em>, yeah! <em>Yeah</em>! All the way down to the core! Consider yourself conquered, Giant’s Deep — you just got <em>Feldsparred</em>.",
+"Ha ha, yeah! Yeah! All the way down to the core! Consider yourself conquered, Giant’s Deep — you just got Feldsparred.",
 "Journal"
 ],
 "1355": [
@@ -4113,11 +4071,9 @@
 "DANGER! Inside this fence is a pocket of ghost matter - a strange and dangerous substance that’s invisible to the naked eyes. The good news is that you can detect ghost matter with a camera."
 ],
 "1359": [
-"Moving through ghost matter is uniquely painful and will probably kill you. Don’t complain to me if you hurt yourself fooling around.<br>- Hornfels"
+"Moving through ghost matter is uniquely painful and will probably kill you. Don’t complain to me if you hurt yourself fooling around. \n- Hornfels"
 ],
 "1360": [
-"Gneiss",
-"Name"
 ],
 "1361": [
 "Hello there, space cadet! I hear you’re leaving the crater today."
@@ -4183,8 +4139,6 @@
 "Alright. Take care, now."
 ],
 "1382": [
-"Gossan",
-"Name"
 ],
 "1383": [
 "Hey, I thought I might see you before the big launch."
@@ -4229,13 +4183,13 @@
 "They’re still sore I made them install a safety harness in the cockpit. Claimed it would \"throw off the thrust-to-weight ratio.\""
 ],
 "1397": [
-"Honestly. One of these days I’m gonna throw off <em>Slate’s</em> thrust-to-weight ratio."
+"Honestly. One of these days I’m gonna throw off Slate’s thrust-to-weight ratio."
 ],
 "1398": [
 "Think so, do you? Feel like proving it to your old flight coach?"
 ],
 "1399": [
-"There’s a \"satellite\" — which is definitely <em>not</em> just a piece of broken mining equipment — set up down in the zero-g cave and in need of repairs."
+"There’s a \"satellite\" — which is definitely not just a piece of broken mining equipment — set up down in the zero-g cave and in need of repairs."
 ],
 "1400": [
 "If you’re looking for a little last-minute zero-g practice, head down the lift and into the cave. Or don’t, so long as you’re confident you can make ship repairs in space."
@@ -4247,7 +4201,7 @@
 "Nah, I’m ready for the real deal."
 ],
 "1403": [
-"So listen, there’s a \"satellite\" — which is definitely <em>not</em> just a piece of broken mining equipment — set up down in the zero-g cave and in need of repairs."
+"So listen, there’s a \"satellite\" — which is definitely not just a piece of broken mining equipment — set up down in the zero-g cave and in need of repairs."
 ],
 "1404": [
 "If you’re looking for a little last-minute zero-g practice, head down the lift and into the cave. Or don’t, so long as you’re confident you can make ship repairs in space."
@@ -4298,7 +4252,7 @@
 "Oi, don’t forget to put on a suit! I don’t want to have to come fish you out of there again."
 ],
 "1420": [
-"Hey! Come say hi to your old flight coach before your launch. I’ve got zero-g training set up if you want a refresher.<br><br>-Gossan",
+"Hey! Come say hi to your old flight coach before your launch. I’ve got zero-g training set up if you want a refresher. \n-Gossan",
 "Note"
 ],
 "1421": [
@@ -4311,7 +4265,7 @@
 "The statue was glowing! Why was it glowing?!"
 ],
 "1424": [
-"Whoa, whoa — the statue was doing <em>what</em>?"
+"Whoa, whoa — the statue was doing what?"
 ],
 "1425": [
 "So its eyes opened, and then you saw images from your own memories and glowing lights flying around? You mean like  a hallucination?"
@@ -4323,13 +4277,13 @@
 "You know what, don’t worry about it."
 ],
 "1428": [
-"No, that statue is <em>definitely weird</em>."
+"No, that statue is definitely weird."
 ],
 "1429": [
 "Maybe you should sit down for a bit and take it easy. I’d hate for anything bad to happen if you tried to launch while you’re not feeling great."
 ],
 "1430": [
-"But hey, when you <em>are</em> ready, then you can make the most of our translator tool! Sniff... I can’t believe it’s all grown up and leaving for space already."
+"But hey, when you are ready, then you can make the most of our translator tool! Sniff... I can’t believe it’s all grown up and leaving for space already."
 ],
 "1431": [
 "For real, though, I’m glad you’re the one carrying it and not, like, Riebeck. They’d fall on it for sure."
@@ -4347,10 +4301,10 @@
 "I don’t think you’re going to get any answers from the museum statue, but Gabbro said they were going back to Giant’s Deep. Dunno which island they’re on, though."
 ],
 "1436": [
-"Maybe they’d be able to tell you more? On the other hand, Gabbro’s, y’know, <em>Gabbro</em>, so maybe you’d be better off searching for more info on your own."
+"Maybe they’d be able to tell you more? On the other hand, Gabbro’s, y’know, Gabbro, so maybe you’d be better off searching for more info on your own."
 ],
 "1437": [
-"...Geez, now I’m <em>really</em> jealous you’re going into space! Hey, see if you can use our translator tool to find out more about the statue, okay?"
+"...Geez, now I’m really jealous you’re going into space! Hey, see if you can use our translator tool to find out more about the statue, okay?"
 ],
 "1438": [
 "Good luck, and safe flying!"
@@ -4389,7 +4343,7 @@
 "From Giant’s Deep! Gabbro fished it out of the oceans and brought it back here for study."
 ],
 "1450": [
-"Hornfels doesn’t know much about it yet, just that it’s <em>crazy</em> old and super tough. I wonder why the Nomai carved it?"
+"Hornfels doesn’t know much about it yet, just that it’s crazy old and super tough. I wonder why the Nomai carved it?"
 ],
 "1451": [
 "Apparently, Gabbro went back to Giant’s Deep to try to learn more about the statue. Maybe they’ll find some answers there."
@@ -4416,8 +4370,6 @@
 "Be careful out there in space!"
 ],
 "1459": [
-"Marl",
-"Name"
 ],
 "1460": [
 "So it’s launch day, huh? Hal’s going to miss you."
@@ -4465,8 +4417,6 @@
 "What are you doing back? Did you forget your spacesuit or something?"
 ],
 "1475": [
-"Porphy",
-"Name"
 ],
 "1476": [
 "Heyo, hatchling!"
@@ -4523,11 +4473,11 @@
 "Oh my, and here I thought I’d heard your ship take off. Was your adventure only a short one?"
 ],
 "1494": [
-"Okay, wow. <em>Wow.</em> I’ve seen this ruin in other travelers’ pictures, but seeing it for myself...",
+"Okay, wow. Wow. I’ve seen this ruin in other travelers’ pictures, but seeing it for myself...",
 "Recording"
 ],
 "1495": [
-"It’s <em>really</em> old, isn’t it?",
+"It’s really old, isn’t it?",
 "Recording"
 ],
 "1496": [
@@ -4559,11 +4509,11 @@
 "Journal"
 ],
 "1503": [
-"Hurgh. Well. That was... deeply unpleasant. I made it this far, though. Guess that’s the part to focus on, and not how I’ll eventually have to get back <em>up</em> that path.",
+"Hurgh. Well. That was... deeply unpleasant. I made it this far, though. Guess that’s the part to focus on, and not how I’ll eventually have to get back up that path.",
 "Journal"
 ],
 "1504": [
-"But wow, this place sure is something! Looks like the Hanging City is north from here. And east is a gravity cannon! I <em>definitely</em> want to see that.",
+"But wow, this place sure is something! Looks like the Hanging City is north from here. And east is a gravity cannon! I definitely want to see that.",
 "Journal"
 ],
 "1505": [
@@ -4607,12 +4557,10 @@
 "Recording"
 ],
 "1515": [
-"I can’t get inside from <em>here</em>, but I know there are paths below the surface. I’m going to head north to the ruins on the equator to try to find a way down.",
+"I can’t get inside from here, but I know there are paths below the surface. I’m going to head north to the ruins on the equator to try to find a way down.",
 "Recording"
 ],
 "1516": [
-"Rutile",
-"Name"
 ],
 "1517": [
 "You’re actually blasting off in that thing, huh?"
@@ -4672,20 +4620,14 @@
 "You’re back already? Is everything OK?"
 ],
 "1536": [
-"East: Nomai Ruins"
 ],
 "1537": [
-"North: Youngbark Crater"
 ],
 "1538": [
-"Northwest: Geyser Mountains"
 ],
 "1539": [
-"South: Quantum Grove Crater"
 ],
 "1540": [
-"Spinel",
-"Name"
 ],
 "1541": [
 "Fishing rhyme, fishing rhyme... Singing helps me pass the time."
@@ -4784,7 +4726,7 @@
 "Oh, them? I’d bet today’s haul they’re in the observatory."
 ],
 "1573": [
-"Not that I’ve caught anything yet, but if I had, I’d definitely bet it. Hornfels is pretty much <em>always</em> in the observatory."
+"Not that I’ve caught anything yet, but if I had, I’d definitely bet it. Hornfels is pretty much always in the observatory."
 ],
 "1574": [
 "That’s nice. I’m planning to do a lot of that later."
@@ -4799,8 +4741,6 @@
 "Fishing tune, fishing tune... uh... yeah, I didn’t think this one through at all."
 ],
 "1578": [
-"Tektite",
-"Name"
 ],
 "1579": [
 "Heyo, hatchling! Thought you were taking that tin can of yours into space today - what’re you still doing here?"
@@ -4905,8 +4845,6 @@
 "Alright then, see you around."
 ],
 "1613": [
-"Tephra",
-"Name"
 ],
 "1614": [
 "Hullo, astronaut!"
@@ -4918,10 +4856,10 @@
 "What’s with the radio?"
 ],
 "1617": [
-"We <em>wanted</em> to play hide and seek, but Moraine won’t let us borrow their signalscope because it’s “really delicate” and “not supposed to be thrown around like that.”"
+"We wanted to play hide and seek, but Moraine won’t let us borrow their signalscope because it’s “really delicate” and “not supposed to be thrown around like that.”"
 ],
 "1618": [
-"Hey, hey, can we use <em>your</em> Signalscope? Can we? Can we, please? We’ll even let you be \"it\"!"
+"Hey, hey, can we use your Signalscope? Can we? Can we, please? We’ll even let you be \"it\"!"
 ],
 "1619": [
 "Sure, let’s play!"
@@ -5011,8 +4949,6 @@
 "Are you bringing lots of mallows with you to roast on your trip? Mallows are my favorite!"
 ],
 "1648": [
-"Tuff",
-"Name"
 ],
 "1649": [
 "Hey, hey. Nice of you to drop down."
@@ -5039,13 +4975,13 @@
 "Guess where I’m going today."
 ],
 "1657": [
-"So you’re going in <em>there</em>? In the cave? Hnnngh..."
+"So you’re going in there? In the cave? Hnnngh..."
 ],
 "1658": [
 "What? No, I’m fine. Great. Great and fine."
 ],
 "1659": [
-"You don’t <em>look</em> fine..."
+"You don’t look fine..."
 ],
 "1660": [
 "Yeah, I’m going to drift around down there for a while."
@@ -5096,7 +5032,7 @@
 "Oh, no. Nooooo, no no no. No way."
 ],
 "1676": [
-"You want to run off into space, that’s your business, but don’t make me, you know, <em>think</em> about it."
+"You want to run off into space, that’s your business, but don’t make me, you know, think about it."
 ],
 "1677": [
 "Bad enough we got this weird cave down here..."
@@ -5138,8 +5074,6 @@
 "Give me the dirt."
 ],
 "1690": [
-"Arkose",
-"Name"
 ],
 "1691": [
 "Hi, astronaut!"
@@ -5169,16 +5103,16 @@
 "Try not to walk into any in space, okay? That sounds bad and painful."
 ],
 "1700": [
-"Uhhh, obviously? That's what makes it so <em>awesome</em>? Geez, I'm not dumb enough to <em>touch</em> it."
+"Uhhh, obviously? That's what makes it so awesome? Geez, I'm not dumb enough to touch it."
 ],
 "1701": [
 "Ugh, you're such a grown-up."
 ],
 "1702": [
-"Whoa, really?! ...That is <em>so cool</em>!"
+"Whoa, really?! ...That is so cool!"
 ],
 "1703": [
-"It's cool that Little Scouts can detect ghost matter and all, but what would be <em>really</em> cool is if the Little Scout could, like, shoot ghost matter at stuff. All <em>pew pew pew</em>!"
+"It's cool that Little Scouts can detect ghost matter and all, but what would be really cool is if the Little Scout could, like, shoot ghost matter at stuff. All pew pew pew!"
 ],
 "1704": [
 "This anglerfish specimen was found attached to the landing gear of one of our ships that flew close to Dark Bramble. It appears well-suited to living in dark places with minimal atmosphere."
@@ -5196,23 +5130,17 @@
 "Outer Wilds Ventures was founded by Feldspar, Gossan, Slate, and Hornfels to explore a solar system at the end of the universe."
 ],
 "1709": [
-"Galena",
-"Name"
 ],
 "1710": [
-"..."
 ],
 "1711": [
-"..."
 ],
 "1712": [
 "Good luck in space."
 ],
 "1713": [
-"..."
 ],
 "1714": [
-"..."
 ],
 "1715": [
 "You found me..."
@@ -5224,7 +5152,6 @@
 "Thanks... for playing with us."
 ],
 "1718": [
-"..."
 ],
 "1719": [
 "This crystal was taken from a Nomai ruin on Brittle Hollow."
@@ -5233,8 +5160,6 @@
 "It seems to create a local gravity distortion, and was most likely used to traverse steep surfaces. Try it out!"
 ],
 "1721": [
-"Mica",
-"Name"
 ],
 "1722": [
 "Hey, it’s you!"
@@ -5255,7 +5180,7 @@
 "I hear you and Slate beefed up the model ship. Can I see it?"
 ],
 "1728": [
-"You better be! It’s been forever since anyone launched into space. I really, <em>really</em> want to see it."
+"You better be! It’s been forever since anyone launched into space. I really, really want to see it."
 ],
 "1729": [
 "Really bad."
@@ -5264,7 +5189,7 @@
 "Hey, you want to try out my model ship? Slate says it’s just like the real thing, only less likely to start a fire."
 ],
 "1731": [
-"Aww, you’re just saying that. ...But if you <em>really</em> want to practice with me, I <em>guess</em> I could help you out a little."
+"Aww, you’re just saying that. ...But if you really want to practice with me, I guess I could help you out a little."
 ],
 "1732": [
 "Yeah, we recalibrated the controls and installed better thrusters. Want to give it a test drive? Slate says it’s just like the real thing, only less likely to start a fire."
@@ -5333,8 +5258,6 @@
 "Whatever is actually happening, both sides of this debate agree the effect is extremely creepy."
 ],
 "1754": [
-"Riebeck",
-"Name"
 ],
 "1755": [
 "Oh, you launched! That’s great. Great job, you."
@@ -5355,7 +5278,7 @@
 "I’m here to see the Hanging City. It’s always been my dream to see it with my own four eyes, ever since I was a hatchling."
 ],
 "1761": [
-"An alien race lived in this solar system long before our species even existed! How could I <em>not</em> want to see what their civilization was like?"
+"An alien race lived in this solar system long before our species even existed! How could I not want to see what their civilization was like?"
 ],
 "1762": [
 "Only..."
@@ -5364,7 +5287,7 @@
 "You’ve... probably heard the others say it, right? I’m afraid of space. Seriously, I’m more surprised than anybody that I’m out here."
 ],
 "1764": [
-"Do you want to know how I even got this far? I fell. Tripped over a gravity crystal. It’s dumb luck I landed somewhere my Little Scout says is halfway stable, instead of being sucked into... <em>what’s below</em>."
+"Do you want to know how I even got this far? I fell. Tripped over a gravity crystal. It’s dumb luck I landed somewhere my Little Scout says is halfway stable, instead of being sucked into... what’s below."
 ],
 "1765": [
 "I’ve been gauging the stability of the ground around me using my Little Scout, and this seems to be the place with the best surface integrity, so I’m just going to stay here until I’m ready to move on."
@@ -5394,7 +5317,7 @@
 "Me? I’m an archeologist, remember?"
 ],
 "1775": [
-"Or, um, <em>the</em> archeologist, I guess. Seeing as I’m all Timber Hearth’s got right now."
+"Or, um, the archeologist, I guess. Seeing as I’m all Timber Hearth’s got right now."
 ],
 "1776": [
 "Brittle Hollow is rich with Nomai history. That’s why I’m here. This planet is an absolute treasure trove of culture, history, and science."
@@ -5403,7 +5326,7 @@
 "If you have any questions about the Brittle Hollow Nomai, I’m your Hearthian! Or, um... I have some knowledge of them, I mean. So. Maybe I can help?"
 ],
 "1778": [
-"Oh wow, where <em>shouldn’t</em> you explore here? Um, not the black hole, actually. That’s... very no."
+"Oh wow, where shouldn’t you explore here? Um, not the black hole, actually. That’s... very no."
 ],
 "1779": [
 "Which is unfortunate, because uh, the most exciting stuff is all below the crust. Including the Hanging City — that’s just to the north. You can kinda see it from here."
@@ -5460,10 +5383,10 @@
 "You did?! That, that’s incredible, congratulations!"
 ],
 "1797": [
-"That means they really <em>were</em> from far outside our solar system. Haha, <em>yes</em>! I knew it!"
+"That means they really were from far outside our solar system. Haha, yes! I knew it!"
 ],
 "1798": [
-"But that creates so many new questions! If they didn’t come from our solar system, where did they come from? Are they from our galaxy, or somewhere even farther? What were their lives like before they came here? And <em>why</em> did they come here?"
+"But that creates so many new questions! If they didn’t come from our solar system, where did they come from? Are they from our galaxy, or somewhere even farther? What were their lives like before they came here? And why did they come here?"
 ],
 "1799": [
 "Hey, I... I might not be much of an astronaut, but I’m really glad I came out here to see the Nomai’s artifacts for myself. And, um, thanks for telling me. About the Vessel, I mean."
@@ -5481,10 +5404,10 @@
 "The Hanging City is where the Nomai settled permanently on Brittle Hollow. It was their most advanced settlement here!"
 ],
 "1804": [
-"Why they chose to build their most advanced settlement so close to a <em>you-know-what</em> is beyond me. Maybe that kind of thing makes sense to a Nomai, though. ...Maybe they needed the black hole for something?"
+"Why they chose to build their most advanced settlement so close to a you-know-what is beyond me. Maybe that kind of thing makes sense to a Nomai, though. ...Maybe they needed the black hole for something?"
 ],
 "1805": [
-"You mean there’s another Nomai city <em>inside</em> of Ember Twin? That’s incredible! A whole city, and I had no idea it existed! This is great!"
+"You mean there’s another Nomai city inside of Ember Twin? That’s incredible! A whole city, and I had no idea it existed! This is great!"
 ],
 "1806": [
 "How did they keep the sand out? If it were me, I’d be nervous about getting buried in the caves by that awful river of sand. Gosh, the Nomai sure were ingenius, building an entire settlement underground. The Sunless City! ...Wow!"
@@ -5502,7 +5425,7 @@
 "Maybe once a Nomai journeyed to the Quantum Moon, they were considered an adult?"
 ],
 "1811": [
-"Oh, wow. <em>Wow.</em> So that’s how the Nomai died?"
+"Oh, wow. Wow. So that’s how the Nomai died?"
 ],
 "1812": [
 "That’s... really sad, isn’t it? I know it was a long time ago, but still..."
@@ -5532,7 +5455,7 @@
 "WELL, WHY DIDN’T YOU SAY SO?!"
 ],
 "1821": [
-"Oh wow! <em>Wow</em>! This is the best thing that’s ever happened in the history of Outer Wilds Ventures! I can’t believe you talked to an actual Nomai!"
+"Oh wow! Wow! This is the best thing that’s ever happened in the history of Outer Wilds Ventures! I can’t believe you talked to an actual Nomai!"
 ],
 "1822": [
 "Great! So I just have to go back into space, fly to the Quantum Moon with zero visibility, find a spooky ruin, and travel through a few different types of dangerous terrain to get there."
@@ -5619,7 +5542,7 @@
 "CLARY: To speed future deliveries to Ash Twin, I’ve tuned the first black hole core to activate when its warp tower aligns with Brittle Hollow."
 ],
 "1850": [
-"CLARY: And before anyone comments, <em>yes</em>, I am aware this reduces the distance between Yarrow and me."
+"CLARY: And before anyone comments, yes, I am aware this reduces the distance between Yarrow and me."
 ],
 "1851": [
 "ROOT: The schematic shows the six towers on Ash Twin are being tuned to only five alignments. Is that a mistake?"
@@ -5646,55 +5569,39 @@
 "PLUME: No Nomai clan has ever encountered anything like it! How can anything in this universe be older than the universe itself?"
 ],
 "1859": [
-"THATCH: Imagine what rare and profound knowledge it might offer. We <em>must</em> find this Eye of the universe."
+"THATCH: Imagine what rare and profound knowledge it might offer. We must find this Eye of the universe."
 ],
 "1860": [
-"Black Hole Forge District"
 ],
 "1861": [
-"The Crossroads<br>(west 350m)"
 ],
 "1862": [
-"The Southern Observatory<br>(south 550m)"
 ],
 "1863": [
-"Gravity Crystal Workshop<br>(above 140m)"
 ],
 "1864": [
-"Gravity Cannon<br>(east 400m)"
 ],
 "1865": [
-"The Hanging City<br>(north 250m)"
 ],
 "1866": [
-"The Tower of Quantum Knowledge<br>(west 190m)"
 ],
 "1867": [
-"Lower Crossroads<br>(below 56m)"
 ],
 "1868": [
-"The Hanging City<br>(below 50m)"
 ],
 "1869": [
-"Eye Shrine District"
 ],
 "1870": [
-"Meltwater District"
 ],
 "1871": [
-"Black Hole Forge<br>(left 30m)"
 ],
 "1872": [
-"The Crossroads<br>(east 190m)"
 ],
 "1873": [
-"School District"
 ],
 "1874": [
-"Gravity Cannon Controls<br>(90m)"
 ],
 "1875": [
-"Entrance to the Tower of Quantum Knowledge<br>(below 90m)"
 ],
 "1876": [
 "The shuttle is currently resting at the comet."
@@ -5727,34 +5634,34 @@
 "COLEUS: We plan to reexamine the northern Lakebed Cave. (Maybe our friendly rock will meet us down there!)"
 ],
 "1886": [
-"The Sunless City<br>(120m)"
+" "
 ],
 "1887": [
-"Gravity Cannon<br>(120m)"
+" "
 ],
 "1888": [
-"The High Energy Lab<br>(400m)"
+" "
 ],
 "1889": [
-"Anglerfish Fossil Overlook<br>(40m)"
+" "
 ],
 "1890": [
-"Stepping Stone Cave<br>(20m)"
+" "
 ],
 "1891": [
-"The Sunless City<br>(120m)"
+" "
 ],
 "1892": [
-"Crash Site Caves<br>(60m)"
+" "
 ],
 "1893": [
-"The High Energy Lab<br>(300m)"
+" "
 ],
 "1894": [
-"The Sunless City<br>(300m)"
+" "
 ],
 "1895": [
-"TimeMinutes MINUTES, TimeSeconds SECONDS AGO: Long-range probe successfully launched from the Orbital Probe Cannon."
+" "
 ],
 "1896": [
 "We offer our congratulations! You’ve learned the rule of quantum imaging. Take this knowledge with you on the remainder of your quantum pilgrimage."
@@ -5784,25 +5691,24 @@
 "PHLOX: Each storage unit will be equipped with a mask, the statue’s counterpart, which will be able to send those stored memories back to the corresponding Nomai."
 ],
 "1905": [
-"TimeMinutes MINUTES, TimeSeconds SECONDS AGO: Request to launch probe received from Ash Twin Project."
 ],
 "1906": [
 "Cannon aligned with randomly selected probe trajectory. Gravity field activated."
 ],
 "1907": [
-"Control Module"
+" "
 ],
 "1908": [
-"Launch Module"
+" "
 ],
 "1909": [
-"Receiving data from probe NbTimeloops."
+" "
 ],
 "1910": [
-"Visualizing current trajectory of probe NbTimeloops."
+" "
 ],
 "1911": [
-"SOLANUM: There is fundamental uncertainty throughout the universe. Normally, this uncertainty is only observable on a very small scale. As one approaches the Eye, however, that uncertainty grows <em>enormously</em>."
+"SOLANUM: There is fundamental uncertainty throughout the universe. Normally, this uncertainty is only observable on a very small scale. As one approaches the Eye, however, that uncertainty grows enormously."
 ],
 "1912": [
 "SOLANUM: The Quantum Moon probably exhibits macroscopic quantum behavior because of its proximity to the Eye. Shards that broke off from the Quantum Moon have a similar effect, as I imagine you’ve seen elsewhere in this star system."
@@ -5853,13 +5759,13 @@
 "SOLANUM: Because the Quantum Moon clearly changes in its different forms, the Eye (being this moon’s primary location) must be similarly malleable."
 ],
 "1928": [
-"SOLANUM: From this, we can hypothesize that <em>the Eye represents extreme changeability</em>."
+"SOLANUM: From this, we can hypothesize that the Eye represents extreme changeability."
 ],
 "1929": [
 "SOLANUM: That said, despite its malleable nature, the Quantum Moon becomes locked to one specific version of itself when it is consciously observed."
 ],
 "1930": [
-"SOLANUM: But what would happen if a conscious observer were to enter the <em>Eye</em>?"
+"SOLANUM: But what would happen if a conscious observer were to enter the Eye?"
 ],
 "1931": [
 "SOLANUM: Many in my clan have believed the Eye called to us for a particular purpose."
@@ -5946,11 +5852,9 @@
 "OENO: Will it be more than we initially thought?"
 ],
 "1959": [
-"ROOT: It will be <em>significantly</em> more. The smallest crack or opening in the protective shell would destroy everything."
+"ROOT: It will be significantly more. The smallest crack or opening in the protective shell would destroy everything."
 ],
 "1960": [
-"Solanum",
-"Name"
 ],
 "1961": [
 "Who are you?"
@@ -5962,16 +5866,13 @@
 "281,042 YEARS AGO: No user commands received for 10 minutes. All systems entering sleep."
 ],
 "1964": [
-"TimeMinutes MINUTES, TimeSeconds SECONDS AGO: Increased solar activity detected. Sun Station hull integrity approaching critical levels. Closing emergency doors."
 ],
 "1965": [
-"TimeMinutes MINUTES, TimeSeconds SECONDS AGO: Received data from previous cycles."
 ],
 "1966": [
-"MASKS RECEIVING DATA FROM:<br>Probe Tracking Module<br>Giant's Deep memory statue<br>Timber Hearth memory statue"
+"MASKS RECEIVING DATA FROM: \nProbe Tracking Module \nGiant's Deep memory statue \nTimber Hearth memory statue"
 ],
 "1967": [
-"TimeMinutesRemaining MINUTES UNTIL END-OF-CYCLE TRANSMISSION"
 ],
 "1968": [
 "YARROW: Some time has passed since I checked in with you, Pye. How are you and Idaea progressing with the Sun Station plans?"
@@ -5998,8 +5899,6 @@
 "IDAEA: That, at least, we can agree on."
 ],
 "1976": [
-"Chert",
-"Name"
 ],
 "1977": [
 "Goodness, it’s you! Hello! I take it your first launch went well, then? Welcome to the Hourglass Twins. Mind the sand, now."
@@ -6110,7 +6009,7 @@
 "What? What makes you think that?"
 ],
 "2013": [
-"It’s true the sun has... <em>changed</em>, lately, but I’ve not seen any evidence suggesting the approaching death of our sun! Stars above, no!"
+"It’s true the sun has... changed, lately, but I’ve not seen any evidence suggesting the approaching death of our sun! Stars above, no!"
 ],
 "2014": [
 "I’ll tell you what, though - I’ll keep my eyes on the sun, and if I find any suggestion the its core is collapsing, you shall be the first to know."
@@ -6203,7 +6102,7 @@
 "Why are so many stars going supernovae?"
 ],
 "2044": [
-"Well, I was - that is, I originally came out here to update our star charts. Now, though, I’m trying to figure out what’s going on with the stars. There are so many - <em>too</em> many supernovae."
+"Well, I was - that is, I originally came out here to update our star charts. Now, though, I’m trying to figure out what’s going on with the stars. There are so many - too many supernovae."
 ],
 "2045": [
 "Why are so many stars dying out? I’ve never seen anything like this."
@@ -6248,7 +6147,7 @@
 "What? What makes you think that?"
 ],
 "2059": [
-"It’s true the sun has... <em>changed</em>, lately, but I’ve not seen any evidence suggesting the approaching death of our sun! Stars above, no!"
+"It’s true the sun has... changed, lately, but I’ve not seen any evidence suggesting the approaching death of our sun! Stars above, no!"
 ],
 "2060": [
 "I’ll tell you what, though - I’ll keep my eyes on the sun, and if I find any suggestion the its core is collapsing, you shall be the first to know."
@@ -6317,7 +6216,7 @@
 "The stars! They're all dying! There’ve been too many supernovae for it to be anything else!"
 ],
 "2082": [
-"We’re next, do you understand?! Our sun! By Hearth’s name, <em>we’re next</em>!"
+"We’re next, do you understand?! Our sun! By Hearth’s name, we’re next!"
 ],
 "2083": [
 "Please, just... Leave me alone, won’t you?"
@@ -6341,7 +6240,7 @@
 "Why, isn’t that great! Do you know what, I’ve found a few things myself! Most of them have to do with the sun exploding!"
 ],
 "2090": [
-"Oh, who <em>cares</em>?! What does it matter?! <em>Nothing</em> matters anymore! The sun is about to go supernova! And me, all my research, my life’s work, wasted!"
+"Oh, who cares?! What does it matter?! Nothing matters anymore! The sun is about to go supernova! And me, all my research, my life’s work, wasted!"
 ],
 "2091": [
 "Wasted, you understand?!"
@@ -6353,10 +6252,10 @@
 "...I don’t feel well. I’d like to be alone, please."
 ],
 "2094": [
-"Where should you <em>go</em>? Where can anyone go? Can’t you see it’s too late now?"
+"Where should you go? Where can anyone go? Can’t you see it’s too late now?"
 ],
 "2095": [
-"Oh, who <em>cares</em>?! What does it matter?! <em>Nothing</em> matters anymore! The sun will probably blow up before you can even get there! And me, all my research, my life’s work, wasted!"
+"Oh, who cares?! What does it matter?! Nothing matters anymore! The sun will probably blow up before you can even get there! And me, all my research, my life’s work, wasted!"
 ],
 "2096": [
 "Wasted, you understand?!"
@@ -6371,13 +6270,13 @@
 "I don't know — they're old! Far older than we realized and now all of them are dying!"
 ],
 "2100": [
-"What does it matter?! It doesn’t! It doesn’t matter at all! <em>Nothing</em> matters anymore! All my research, my life’s work, wasted!"
+"What does it matter?! It doesn’t! It doesn’t matter at all! Nothing matters anymore! All my research, my life’s work, wasted!"
 ],
 "2101": [
 "Wasted, you understand?!"
 ],
 "2102": [
-"I can’t believe this. I can’t believe this is happening. I can’t... I won’t! I <em>won’t</em> believe it!"
+"I can’t believe this. I can’t believe this is happening. I can’t... I won’t! I won’t believe it!"
 ],
 "2103": [
 "Oh, hello..."
@@ -6449,8 +6348,6 @@
 "NEW EXHIBITS COMING SOON!"
 ],
 "2126": [
-"Esker",
-"Name"
 ],
 "2127": [
 "Oh, hey, it’s you!"
@@ -6516,7 +6413,7 @@
 "They forget about you?"
 ],
 "2148": [
-"You <em>spy</em> on us?"
+"You spy on us?"
 ],
 "2149": [
 "I don’t blame them. For one, I don’t check in as often as the other travelers, since I’m always in one place."
@@ -6606,7 +6503,7 @@
 "Not yet."
 ],
 "2178": [
-"Ha <em>ha</em>! Here goes nothing!"
+"Ha ha! Here goes nothing!"
 ],
 "2179": [
 "You got it hatchling. When you’re ready, just say the word."
@@ -6621,28 +6518,22 @@
 "Ahh, I hope there are beasties in the next one."
 ],
 "2183": [
-"Trip 4(?), entry #... I’m gonna say “not 1.”<br>Crashes: 3<br>Boring crashes: 0 (a personal best!)",
-"Journal"
+"Trip 4(?), entry #... I’m gonna say “not 1.” \nCrashes: 3 \nBoring crashes: 0 (a personal best!)"
 ],
 "2184": [
-"Whoa <em>ho</em>! Never thought I’d see one of these beasties outside of Giant’s Deep! They were awfully useful back there — maybe a jellyfish could be useful here, too?",
-"Journal"
+"Whoa ho! Never thought I’d see one of these beasties outside of Giant’s Deep! They were awfully useful back there — maybe a jellyfish could be useful here, too?"
 ],
 "2185": [
-"BLEARGH. This thing tastes terrible! The outside is all rubbery and tough -- maybe that’s because it insulates the jellyfish’s insides from getting zapped by electricity?",
-"Journal"
+"BLEARGH. This thing tastes terrible! The outside is all rubbery and tough -- maybe that’s because it insulates the jellyfish’s insides from getting zapped by electricity?"
 ],
 "2186": [
-"Right, I’m going inside of this jellyfish’s interior cavity to see if what’s in there tastes any better.",
-"Journal"
+"Right, I’m going inside of this jellyfish’s interior cavity to see if what’s in there tastes any better."
 ],
 "2187": [
-"Note to Feldspar: DO NOT EAT THIS EVEN IF YOU ARE DYING. It would be too sad if this were the last thing you ever ate in this life.",
-"Journal"
+"Note to Feldspar: DO NOT EAT THIS EVEN IF YOU ARE DYING. It would be too sad if this were the last thing you ever ate in this life."
 ],
 "2188": [
-"I guess these jellyfish are only useful for insulation from electricity. Again, DO NOT EAT. (Love, Feldspar)",
-"Journal"
+"I guess these jellyfish are only useful for insulation from electricity. Again, DO NOT EAT. (Love, Feldspar)"
 ],
 "2189": [
 "Nice, it’s you. Good to see you made it here in one piece. The first solo launch is a doozy, isn’t it?"
@@ -6714,7 +6605,7 @@
 "Here’s something you might like — I saw a bright flash in the sky not too long ago. Something must have happened up there in orbit around the planet."
 ],
 "2212": [
-"What else, what else... Have you been to Statue Island? That’s what I’ve been calling it, seeing as it’s the <em>island</em> where I found the glowing Nomai <em>statue</em>. ...Get it?"
+"What else, what else... Have you been to Statue Island? That’s what I’ve been calling it, seeing as it’s the island where I found the glowing Nomai statue. ...Get it?"
 ],
 "2213": [
 "I was on the beach on Statue Island when the whole glowy business happened, by the way. It’s a nice beach for that kind of thing. I give it a solid 7 out of 10 on the Gabbro Relaxation Scale."
@@ -6801,7 +6692,7 @@
 "Well actually, after waking up from, you know, dying, I saw the same bright flash in the sky. Something must be happening up there in orbit around the planet."
 ],
 "2241": [
-"What else, what else... Have you been to Statue Island? That’s what I’ve been calling it, seeing as it’s the <em>island</em> where I found the glowing Nomai <em>statue</em>. ...Get it?"
+"What else, what else... Have you been to Statue Island? That’s what I’ve been calling it, seeing as it’s the island where I found the glowing Nomai statue. ...Get it?"
 ],
 "2242": [
 "I was on the beach on Statue Island when the whole glowy business happened, by the way. It’s a nice beach for that kind of thing. I give it a solid 7 out of 10 on the Gabbro Relaxation Scale."
@@ -6882,7 +6773,7 @@
 "Well actually, after waking up from, you know, dying, I saw the same bright flash in the sky. Something must be happening up there in orbit around the planet."
 ],
 "2268": [
-"What else, what else... Have you been to Statue Island? That’s what I’ve been calling it, seeing as it’s the <em>island</em> where I found the glowing Nomai <em>statue</em>. ...Get it?"
+"What else, what else... Have you been to Statue Island? That’s what I’ve been calling it, seeing as it’s the island where I found the glowing Nomai statue. ...Get it?"
 ],
 "2269": [
 "I was on the beach on Statue Island when the whole glowy business happened, by the way. It’s a nice beach for that kind of thing. I give it a solid 7 out of 10 on the Gabbro Relaxation Scale."
@@ -6936,14 +6827,12 @@
 "It’s the kind of thing that makes you glad you stopped and smelled the pine trees along the way, you know?"
 ],
 "2286": [
-"Hornfels",
-"Name"
 ],
 "2287": [
 "There you are! I just finished pre-flight observations, and local conditions are good. Time to get our newest astronaut off the ground!"
 ],
 "2288": [
-"And you’ll be our <em>first</em> astronaut ever equipped with a Nomai translator tool! I confess, I’ve been giddy all day just thinking about it."
+"And you’ll be our first astronaut ever equipped with a Nomai translator tool! I confess, I’ve been giddy all day just thinking about it."
 ],
 "2289": [
 "We’re better equipped than ever to unravel the mysteries of the Nomai. You and Hal should be very proud of your work!"
@@ -7000,7 +6889,7 @@
 "No one’s ever landed on the Interloper before, you know. Perhaps you’ll be the first?"
 ],
 "2307": [
-"I must say... Should you choose to go to Dark Bramble, be <em>very</em> careful. No one’s explored there before, either, for what you’ll find are excellent reasons."
+"I must say... Should you choose to go to Dark Bramble, be very careful. No one’s explored there before, either, for what you’ll find are excellent reasons."
 ],
 "2308": [
 "You’d prefer to ease into things? That’s a sensible plan! More sensible than most of our astronauts tend to be, and that’s a fact."
@@ -7090,7 +6979,7 @@
 "Feldspar was one of the four founding members of Outer Wilds, along with our flight coach Gossan, Slate the engineer, and me."
 ],
 "2337": [
-"As ground control and later the museum curator, I didn’t work with Feldspar as closely as Slate and Gossan did. I <em>can</em> tell you Feldspar was absolutely fearless, though. Nothing scared them."
+"As ground control and later the museum curator, I didn’t work with Feldspar as closely as Slate and Gossan did. I can tell you Feldspar was absolutely fearless, though. Nothing scared them."
 ],
 "2338": [
 "Test-piloted everything Slate ever built! It’s a wonder Feldspar lived to see space, frankly, but they did. Flew all sorts of dangerous stunts and explored everything they could find."
@@ -7108,10 +6997,10 @@
 "...How wonderful for you."
 ],
 "2343": [
-"No, truly, that’s wonderful! It really is. ...Even if I <em>have</em> been pouring over it every night for weeks. It’s stupendous you were able to get a reaction from the statue just by glancing at it a few times."
+"No, truly, that’s wonderful! It really is. ...Even if I have been pouring over it every night for weeks. It’s stupendous you were able to get a reaction from the statue just by glancing at it a few times."
 ],
 "2344": [
-"Ergh, sorry, that’s not a very scientific thing to say, is it? I <em>am</em> glad. I’m just also insufferably, <em>profoundly</em> jealous. You’ll have to forgive me."
+"Ergh, sorry, that’s not a very scientific thing to say, is it? I am glad. I’m just also insufferably, profoundly jealous. You’ll have to forgive me."
 ],
 "2345": [
 "That aside - I have research to do! I wonder why the statue opened its eyes. Surely this means they aren’t mere decorative ornaments...?"
@@ -7141,7 +7030,7 @@
 "Hornfel’s Observations"
 ],
 "2354": [
-"This is incredible! At first I thought the points of light in this image were stars, but they’re not... they’re <em>galaxies</em>!"
+"This is incredible! At first I thought the points of light in this image were stars, but they’re not... they’re galaxies!"
 ],
 "2355": [
 "And this image covers just a tiny patch of the whole sky, which means the universe contains at least a thousand times more galaxies than we previously imagined."
@@ -7153,7 +7042,7 @@
 "Hmmm, this is odd. According to my redshift calculations, every single galaxy in this image is moving away from us."
 ],
 "2358": [
-"In fact, the farther away a galaxy is, the <em>faster</em> it appears to be moving away."
+"In fact, the farther away a galaxy is, the faster it appears to be moving away."
 ],
 "2359": [
 "It’s almost as if the entire universe is expanding."
@@ -7162,8 +7051,6 @@
 "But if that’s true, was everything closer together in the past? And how far back can we extrapolate? Did the universe have a beginning?"
 ],
 "2361": [
-"Moraine",
-"Name"
 ],
 "2362": [
 "Hm? Oh, hello, astronaut."
@@ -7232,10 +7119,8 @@
 "Should I begin?"
 ],
 "2384": [
-"Yes."
 ],
 "2385": [
-"Not yet."
 ],
 "2386": [
 "You g-got it. I’ll do my best!"
@@ -7262,16 +7147,13 @@
 "I’m glad you remembered me."
 ],
 "2394": [
-"A conscious observer has entered the Eye. I wonder what happens now."
+"A conscious observer has entered the Eye. I wonder what happens now.\nIs it time to find out?"
 ],
 "2395": [
-"Is it time to find out?"
 ],
 "2396": [
-"Yes."
 ],
 "2397": [
-"Not yet."
 ],
 "2398": [
 "This song is new to me, but I am honored to be a part of it."
@@ -7289,10 +7171,8 @@
 "Are you ready to learn what comes next?"
 ],
 "2403": [
-"Yes."
 ],
 "2404": [
-"Not yet."
 ],
 "2405": [
 "I admire your curiosity, friend. Let’s find out together."
@@ -7304,31 +7184,23 @@
 "But unless they are collapsed by an observer, they will never be more than possibilities."
 ],
 "2408": [
-"I saw smoke coming from Youngbark Crater up north and figured I should go check it out. You can use the scout launcher, just please don’t break it while I’m gone.<br><br>– Tektite",
-"Note"
+"I saw smoke coming from Youngbark Crater up north and figured I should go check it out. You can use the scout launcher, just please don’t break it while I’m gone. \n– Tektite"
 ],
 "2409": [
 ],
 "2410": [
-"Matthew Steinhauer"
 ],
 "2411": [
-"Ben Etherington"
 ],
 "2412": [
-"QwertyuiopThePie"
 ],
 "2413": [
-"Jordan Frith"
 ],
 "2414": [
-"Tom Cummings"
 ],
 "2415": [
-"Sean \"sharktemplar\" Farrell"
 ],
 "2416": [
-"Steven Ursell"
 ],
 "2417": [
 ],
@@ -7339,13 +7211,10 @@
 "2420": [
 ],
 "2421": [
-"Here lies Isrever"
 ],
 "2422": [
-"Here lies BinarySemaphore"
 ],
 "2423": [
-"Here lies Sean 'Ariamaki' Riedinger"
 ],
 "2424": [
 "ERROR: Unknown Language"
@@ -7523,17 +7392,14 @@
 "2487": [
 ],
 "2488": [
-"A mural of three escape pods evacuating the Nomai vessel."
 ],
 "2489": [
 ],
 "2490": [
-"A mural of Dark Bramble ensnaring the Nomai vessel."
 ],
 "2491": [
 ],
 "2492": [
-"A mural of a Nomai vessel encountering a signal."
 ],
 "2493": [
 ],
@@ -7795,7 +7661,6 @@
 "I found Nomai coordinates marking the location of the Eye of the universe."
 ],
 "2585": [
-"One of the Orbital Probe Cannon’s three modules."
 ],
 "2586": [
 "The Launch Module looks heavily damaged. There’s a huge breach in the glass viewport."
@@ -7813,7 +7678,6 @@
 "A Nomai named Privet countered that they wouldn't be capable of receiving the probe's data if the Probe Tracking Module was destroyed."
 ],
 "2591": [
-"One of the Orbital Probe Cannon’s three modules."
 ],
 "2592": [
 "The Control Module (recently) received a request from the Ash Twin Project to launch the probe. The cannon was aligned with a randomly selected probe trajectory."
@@ -8673,15 +8537,19 @@
 "YOU DESTROYED THE FABRIC OF SPACETIME"
 ],
 "2897": [
-"NOW BEYOND THE REACH OF THE SUPERNOVA,<br>YOU DRIFT THROUGH SPACE UNTIL YOUR SHIP'S RESOURCES ARE FINALLY DEPLETED"
+"NOW BEYOND THE REACH OF THE SUPERNOVA, YOU DRIFT THROUGH SPACE UNTIL YOUR SHIP'S RESOURCES ARE FINALLY DEPLETED"
 ],
 "2898": [
-"HOW LONG HAVE YOU BEEN HERE? MINUTES? YEARS?<br>YOU ARE UNSURE BUT IT SEEMS YOUR JOURNEY HAS REACHED ITS END."
+"HOW LONG HAVE YOU BEEN HERE? MINUTES? YEARS? YOU ARE UNSURE BUT IT SEEMS YOUR JOURNEY HAS REACHED ITS END."
 ],
 "2899": [
-"NOW BEYOND THE REACH OF THE SUPERNOVA, YOU FIND YOURSELF THE ONLY INHABITANT OF AN ABANDONED WORLD.<br>SURELY <em>SOMETHING</em> HERE MUST BE EDIBLE?"
+"NOW BEYOND THE REACH OF THE SUPERNOVA, YOU FIND YOURSELF THE ONLY INHABITANT OF AN ABANDONED WORLD. SURELY SOMETHING HERE MUST BE EDIBLE?"
 ],
 "2900": [
+<<<<<<< HEAD
 "HOW MUCH TIME HAS PASSED?<br>THEY DON’T EVEN BOTHER TO HUNT YOU ANYMORE.<br>TIME PASSES, AND PASSES, UNTIL YOUR LIFE BEFORE IS SOME HALF-REMEMBERED DREAM.<br>IF ONLY YOU COULD WAKE UP."
+=======
+"HOW MUCH TIME HAS PASSED? THEY DON’T EVEN BOTHER TO HUNT YOU ANYMORE. TIME PASSES, AND PASSES, UNTIL YOUR LIFE BEFORE IS SOME HALF-REMEMBERED DREAM. IF ONLY YOU COULD WAKE UP."
+>>>>>>> f5950ce57297e26770d9002739a0a71f57a6fa50
 ]
 }
