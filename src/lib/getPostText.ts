@@ -1,4 +1,4 @@
-import lang_en from './lang_en.json' assert { type: 'json' };
+import lang_en from './lang_en.json' with { type: 'json' };
 
 function getRandomInt(max) {
   return Math.floor(Math.random() * max);

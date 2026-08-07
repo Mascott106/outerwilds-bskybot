@@ -1,11 +1,11 @@
 import { bskyAccount, bskyService } from "./config.js";
-import type {
-  AtpAgentLoginOpts,
-  AtpAgentOpts,
-  AppBskyFeedPost,
+import {
+  Agent,
+  CredentialSession,
+  RichText,
+  type AtpAgentLoginOpts,
+  type AppBskyFeedPost,
 } from "@atproto/api";
-import atproto from "@atproto/api";
-const { BskyAgent, RichText } = atproto;
 
 type BotOptions = {
   service: string | URL;
@@ -13,19 +13,21 @@ type BotOptions = {
 };
 
 export default class Bot {
-  #agent;
+  #session: CredentialSession;
+  #agent: Agent;
 
   static defaultOptions: BotOptions = {
     service: bskyService,
     dryRun: false,
   } as const;
 
-  constructor(service: AtpAgentOpts["service"]) {
-    this.#agent = new BskyAgent({ service });
+  constructor(service: string | URL) {
+    this.#session = new CredentialSession(new URL(String(service)));
+    this.#agent = new Agent(this.#session);
   }
 
   login(loginOpts: AtpAgentLoginOpts) {
-    return this.#agent.login(loginOpts);
+    return this.#session.login(loginOpts);
   }
 
   async post(
