@@ -16,7 +16,7 @@ export default class Bot {
   #session: CredentialSession;
   #agent: Agent;
 
-  static defaultOptions: BotOptions = {
+  static readonly defaultOptions: BotOptions = {
     service: bskyService,
     dryRun: false,
   } as const;

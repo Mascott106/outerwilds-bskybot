@@ -1,16 +1,18 @@
 import lang_en from './lang_en.json' with { type: 'json' };
 
 function getRandomInt(max) {
+  // Quote selection only — not used for security-sensitive randomness.
+  // eslint-disable-next-line sonarjs/pseudo-random -- intentional non-crypto RNG for picking quotes
   return Math.floor(Math.random() * max);
 }
 
 export default async function getPostText() {
   // Generate the text for your post here. You can return a string or a promise that resolves to a string
 
-  var gotText = false;
-  var selectNum;
-  var quoteText;
-  var confirmedQuoteText;
+  let gotText = false;
+  let selectNum;
+  let quoteText;
+  let confirmedQuoteText;
   //var testBool = false;
 
   // selects quote number in bounds and checks if it is less than 301 characters
