@@ -1,8 +1,14 @@
 # Scheduling posts with cron-job.org
 
-GitHub Actions `schedule` triggers are best-effort: during high load they can be delayed by many minutes or dropped entirely. This bot is timed by [cron-job.org](https://cron-job.org) instead, which calls GitHub’s `workflow_dispatch` API every hour.
+GitHub Actions `schedule` triggers are best-effort: during high load they can be delayed by many minutes or dropped entirely. This bot is timed by [cron-job.org](https://cron-job.org) instead, which calls GitHub's `workflow_dispatch` API every hour.
 
-The workflow [`.github/workflows/post.yml`](../.github/workflows/post.yml) only listens for `workflow_dispatch` (manual or API). Bluesky credentials stay in GitHub Actions secrets (`BSKY_HANDLE`, `BSKY_PASSWORD`).
+The workflow [`.github/workflows/post.yml`](../.github/workflows/post.yml) only listens for `workflow_dispatch` (manual or API) and runs on a **self-hosted runner**. Bluesky credentials stay in GitHub Actions secrets (`BSKY_HANDLE`, `BSKY_PASSWORD`).
+
+## 0. Prerequisites
+
+1. A healthy self-hosted runner is online for this repository.
+2. The runner can execute the workflow steps in `post.yml` (`npm ci`, `npm run build`, `npm start`).
+3. Required repository secrets exist: `BSKY_HANDLE`, `BSKY_PASSWORD`.
 
 ## 1. Create a fine-grained GitHub PAT
 
