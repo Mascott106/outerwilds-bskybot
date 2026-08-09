@@ -28,7 +28,7 @@
     "@types/node": "^26.1.1",
     "@typescript-eslint/eslint-plugin": "^8.66.0",
     "@typescript-eslint/parser": "^8.66.0",
-    "eslint": "^8.57.1",
+    "eslint": "^10.8.0",
     "eslint-plugin-sonarjs": "^4.2.0",
     "node-env-run": "^4.0.2",
     "typescript": "~5.9.0"
