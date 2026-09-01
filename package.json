@@ -34,7 +34,7 @@
     "typescript": "~5.9.0"
   },
   "dependencies": {
-    "@atproto/api": "^0.20.28",
-    "zod": "^4.4.3"
+    "@atproto/api": "^0.20.42",
+    "zod": "^4.5.2"
   }
 }
